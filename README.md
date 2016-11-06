@@ -8,6 +8,11 @@
 4. [ORB: an efficient alternative to SIFT or SURF](https://www.willowgarage.com/sites/default/files/orb_final.pdf)
 5. [Object Recognition from Local Scale-Invariant Features](http://www.cs.ubc.ca/~lowe/papers/iccv99.pdf)
 
+#### Plan to read
+
+1. [Visual Search at Pinterest]()
+2. [VisualRank: Applying PageRank to Large-Scale Image Search]()
+
 ### Tutorials
 
 1. [Recent Image Search Techniques](http://cvpr2016.thecvf.com/program/tutorials)
