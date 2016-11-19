@@ -7,6 +7,7 @@
 3. [Visual Categorization with Bags of Keypoints](http://www.cs.princeton.edu/courses/archive/fall09/cos429/papers/csurka-eccv-04.pdf)
 4. [ORB: an efficient alternative to SIFT or SURF](https://www.willowgarage.com/sites/default/files/orb_final.pdf)
 5. [Object Recognition from Local Scale-Invariant Features](http://www.cs.ubc.ca/~lowe/papers/iccv99.pdf)
+6. [Deep Image Retrieval:Learning global representations for image search]()
 
 #### Plan to read
 
@@ -17,5 +18,12 @@
 
 1. [Recent Image Search Techniques](http://cvpr2016.thecvf.com/program/tutorials)
 2. [Compact Features for Visual Search](http://cvpr2016.thecvf.com/program/tutorials)
+
+
+## Awesome multiclass classification
+
+### papers
+
+1. [Loss Functions for Top-k Error: Analysis and Insights]() and [Top-k Multiclass SVM](), [code](https://github.com/mlapin/libsdca)
 
 
