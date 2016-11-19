@@ -26,4 +26,6 @@
 
 1. [Loss Functions for Top-k Error: Analysis and Insights]() and [Top-k Multiclass SVM](), [code](https://github.com/mlapin/libsdca)
 
+### Tutorials
 
+1. [Linear Classification](http://cs231n.github.io/linear-classify/), [中文版](http://blog.csdn.net/elaine_bao/article/details/50519970), [demo](http://vision.stanford.edu/teaching/cs231n/linear-classify-demo/)
