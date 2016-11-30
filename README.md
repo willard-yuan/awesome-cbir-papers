@@ -29,3 +29,9 @@
 ### Tutorials
 
 1. [Linear Classification](http://cs231n.github.io/linear-classify/), [中文版](http://blog.csdn.net/elaine_bao/article/details/50519970), [demo](http://vision.stanford.edu/teaching/cs231n/linear-classify-demo/)
+
+## Logo Detection and Classification
+
+### Paper
+
+1. LOGO-Net: Large-scale Deep Logo Detection and Brand Recognition with Deep Region-based Convolutional Networks
