@@ -35,3 +35,9 @@
 ### Paper
 
 1. LOGO-Net: Large-scale Deep Logo Detection and Brand Recognition with Deep Region-based Convolutional Networks
+
+## Object Detection and Recognition
+
+### Paper
+
+1. SSD: Single Shot MultiBox Detector [code](https://github.com/weiliu89/caffe/tree/ssd)
