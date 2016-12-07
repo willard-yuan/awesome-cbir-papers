@@ -42,7 +42,7 @@
 
 1. SSD: Single Shot MultiBox Detector [code](https://github.com/weiliu89/caffe/tree/ssd)
 
-### Video Classification
+## Video Classification
 
 ### Papers
 
