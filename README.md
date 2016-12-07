@@ -32,12 +32,19 @@
 
 ## Logo Detection and Classification
 
-### Paper
+### Papers
 
 1. LOGO-Net: Large-scale Deep Logo Detection and Brand Recognition with Deep Region-based Convolutional Networks
 
 ## Object Detection and Recognition
 
-### Paper
+### Papers
 
 1. SSD: Single Shot MultiBox Detector [code](https://github.com/weiliu89/caffe/tree/ssd)
+
+### Video Classification
+
+### Papers
+
+1. [Large-scale Video Classification with Convolutional Neural Networks](vision.stanford.edu/pdf/karpathy14.pdf)
+2. [Learning Spatiotemporal Features With 3D Convolutional Networks](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf), [code](https://github.com/Lasagne/Recipes/blob/master/examples/Video%20features%20with%20C3D.ipynb), [doc](https://docs.google.com/document/d/1-QqZ3JHd76JfimY4QKqOojcEaf5g3JS0lNh-FHTxLag/edit), [project](http://vlg.cs.dartmouth.edu/c3d/)
