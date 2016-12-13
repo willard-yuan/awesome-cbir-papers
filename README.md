@@ -2,12 +2,19 @@
 
 ### Papers
 
+#### Local Feature Based
+
 1. [Object retrieval with large vocabularies and fast spatial matching](https://www.robots.ox.ac.uk/~vgg/publications/papers/philbin07.pdf)
 2. [Improving the Fisher Kernel for Large-Scale Image Classification](https://www.robots.ox.ac.uk/~vgg/rg/papers/peronnin_etal_ECCV10.pdf)
 3. [Visual Categorization with Bags of Keypoints](http://www.cs.princeton.edu/courses/archive/fall09/cos429/papers/csurka-eccv-04.pdf)
 4. [ORB: an efficient alternative to SIFT or SURF](https://www.willowgarage.com/sites/default/files/orb_final.pdf)
 5. [Object Recognition from Local Scale-Invariant Features](http://www.cs.ubc.ca/~lowe/papers/iccv99.pdf)
-6. [Deep Image Retrieval:Learning global representations for image search]()
+
+#### Deep Learning Feature Based
+
+1. [Deep Image Retrieval:Learning Global Representations for Image earch](https://arxiv.org/abs/1604.01325)
+2. [Bags of Local Convolutional Features for Scalable Instance Search](https://arxiv.org/abs/1604.01325)
+3. [Faster R-CNN Features for Instance Search](https://github.com/imatge-upc/retrieval-2016-deepvision)
 
 #### Plan to read
 
