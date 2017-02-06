@@ -15,12 +15,17 @@
 - [Faster R-CNN Features for Instance Search](https://github.com/imatge-upc/retrieval-2016-deepvision)
 - [Cross-dimensional Weighting for Aggregated Deep Convolutional Features](https://arxiv.org/abs/1512.04065), [project](https://github.com/yahoo/crow)
 - [Aggregating Deep Convolutional Features for Image Retrieval](https://arxiv.org/abs/1510.07493), [论文笔记](https://zhuanlan.zhihu.com/p/23136747), [基于深度学习的视觉实例搜索研究进展](https://zhuanlan.zhihu.com/p/22265265).
-- [Particular object retrieval with integral max-pooling of CNN activations](https://arxiv.org/abs/1511.05879), [project](http://cmp.felk.cvut.cz/~toliageo/soft.html).
+- [Particular object retrieval with integral max-pooling of CNN activations](https://arxiv.org/abs/1511.05879), [project](http://cmp.felk.cvut.cz/~toliageo/soft.html), [Learning to Match Aerial Images with Deep Attentive Architectures](https://vision.cornell.edu/se3/wp-content/uploads/2016/04/1204.pdf).
 - [Siamese Network of Deep Fisher-Vector Descriptors for Image Retrieval](https://arxiv.org/pdf/1702.00338v1.pdf)
 
 #### Features fast index
 
 - [Practical and Optimal LSH for Angular Distance](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fpapers.nips.cc%2Fpaper%2F5893-practical-and-optimal-lsh-for-angular-distance.pdf)
+- [pq-fast-scan](https://github.com/technicolor-research/pq-fast-scan)
+
+#### feature fusion
+
+- [Feature fusion using Canonical Correlation Analysis](https://github.com/mhaghighat/ccaFuse)
 
 #### Plan to read
 
@@ -67,3 +72,15 @@
 
 - [Large-scale Video Classification with Convolutional Neural Networks](vision.stanford.edu/pdf/karpathy14.pdf)
 - [Learning Spatiotemporal Features With 3D Convolutional Networks](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf), [code](https://github.com/Lasagne/Recipes/blob/master/examples/Video%20features%20with%20C3D.ipynb), [doc](https://docs.google.com/document/d/1-QqZ3JHd76JfimY4QKqOojcEaf5g3JS0lNh-FHTxLag/edit), [project](http://vlg.cs.dartmouth.edu/c3d/)
+
+---
+
+## ROS for Robotics
+
+- [Learning_ROS_for_Robotics_Programming_2nd_edition](https://github.com/AaronMR/Learning_ROS_for_Robotics_Programming_2nd_edition)
+
+---
+
+## Image Fingerprinting
+
+- [Video fingerprinting tool. Finding duplicate movies in a large dataset](https://github.com/funzoneq/video_fingerprinting)
