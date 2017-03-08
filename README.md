@@ -40,13 +40,14 @@
 
 #### Plan to read
 
-- [Visual Search at Pinterest]()
+- [Visual Search at Pinterest](reading done)
 - [VisualRank: Applying PageRank to Large-Scale Image Search]()
 
 ### Tutorials
 
 - [Recent Image Search Techniques](http://cvpr2016.thecvf.com/program/tutorials)
 - [Compact Features for Visual Search](http://cvpr2016.thecvf.com/program/tutorials)
+- [multimedia-indexing](https://github.com/MKLab-ITI/multimedia-indexing). A framework for large-scale feature extraction, indexing and retrieval.
 
 
 ## Awesome multiclass classification
