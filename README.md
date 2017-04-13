@@ -75,6 +75,7 @@
 ### Papers
 
 - [SSD: Single Shot MultiBox Detector](www.cs.unc.edu/~wliu/papers/ssd.pdf), [code](https://github.com/weiliu89/caffe/tree/ssd)
+- [A Closer Look: Small Object Detection in Faster R-CNN]()
 
 ---
 
