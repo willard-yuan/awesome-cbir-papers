@@ -37,6 +37,11 @@
 - [Annoy](https://github.com/spotify/annoy). Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk 
 - [NMSLIB](https://github.com/searchivarius/nmslib). Non-Metric Space Library (NMSLIB): A similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
 
+#### Industry CBIR
+
+- [Visual Search at Pinterest]()
+- [Visual Discovery at Pinterest]()
+
 #### feature fusion
 
 - [Feature fusion using Canonical Correlation Analysis](https://github.com/mhaghighat/ccaFuse)
