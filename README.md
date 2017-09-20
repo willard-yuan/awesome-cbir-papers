@@ -46,14 +46,22 @@
 
 - [Visual Search at Pinterest]()
 - [Visual Discovery at Pinterest]()
+- [Visual Search at ebay]()
 
 #### feature fusion
 
 - [Feature fusion using Canonical Correlation Analysis](https://github.com/mhaghighat/ccaFuse)
 
+#### Feature Matching
+
+- [GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence]()
+- [A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval](https://github.com/vote-and-verify/vote-and-verify)
+- [CODE: Coherence Based Decision Boundaries for Feature Correspondence]()
+- [PopSift is an implementation of the SIFT algorithm in CUDA](https://github.com/alicevision/popsift)
+- [openMVG robust_estimation](https://github.com/openMVG/openMVG/tree/e3a0bde5e9c676d1cb663a38f7e74c771324d69a/src/openMVG/robust_estimation)
+
 #### Plan to read
 
-- [Visual Search at Pinterest](reading done)
 - [VisualRank: Applying PageRank to Large-Scale Image Search]()
 
 ### Tutorials
