@@ -57,6 +57,7 @@
 - [GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence]()
 - [A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval](https://github.com/vote-and-verify/vote-and-verify)
 - [CODE: Coherence Based Decision Boundaries for Feature Correspondence]()
+- [Robust feature matching in 2.3µs](https://www.edwardrosten.com/work/taylor_2009_robust.pdf)
 - [PopSift is an implementation of the SIFT algorithm in CUDA](https://github.com/alicevision/popsift)
 - [openMVG robust_estimation](https://github.com/openMVG/openMVG/tree/e3a0bde5e9c676d1cb663a38f7e74c771324d69a/src/openMVG/robust_estimation)
 
