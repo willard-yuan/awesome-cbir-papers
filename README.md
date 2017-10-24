@@ -52,6 +52,7 @@
 - [Visual Search at Pinterest]()
 - [Visual Discovery at Pinterest]()
 - [Visual Search at ebay]()
+- [Deep Learning based Large Scale Visual Recommendation and Search for E-Commerce](https://arxiv.org/abs/1703.02344), [project](https://github.com/flipkart-incubator/fk-visual-search)
 
 #### feature fusion
 
