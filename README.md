@@ -55,7 +55,7 @@
 - [Visual Search at ebay]()
 - [Deep Learning based Large Scale Visual Recommendation and Search for E-Commerce](https://arxiv.org/abs/1703.02344), [project](https://github.com/flipkart-incubator/fk-visual-search)
 
-#### feature fusion
+#### Feature fusion
 
 - [Feature fusion using Canonical Correlation Analysis](https://github.com/mhaghighat/ccaFuse)
 
@@ -78,3 +78,8 @@
 - [Recent Image Search Techniques](http://cvpr2016.thecvf.com/program/tutorials)
 - [Compact Features for Visual Search](http://cvpr2016.thecvf.com/program/tutorials)
 - [multimedia-indexing](https://github.com/MKLab-ITI/multimedia-indexing). A framework for large-scale feature extraction, indexing and retrieval.
+
+### Useful Package
+
+- [VLFeat](http://www.vlfeat.org/)
+- [Yael](http://yael.gforge.inria.fr/)
