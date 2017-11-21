@@ -12,9 +12,13 @@
 - [All about VLAD]()
 - [Aggregating localdescriptors into a compact image representatio]()
 - [More About VLAD: A Leap from Euclidean to Riemannian Manifolds]()
+- [Hamming embedding and weak geometric consistency for large scale image search]()
 - [Revisiting the VLAD image representation](https://hal.inria.fr/hal-00840653v1/document), [project](https://github.com/jorjasso/VLAD/blob/master/VLADlib/VLAD.py)
 - [Improving the Fisher Kernel for Large-Scale Image Classification](https://www.robots.ox.ac.uk/~vgg/rg/papers/peronnin_etal_ECCV10.pdf)
 - [Image Classification with the Fisher Vector: Theory and Practice](https://hal.inria.fr/hal-00830491/document)
+- [Democratic Diffusion Aggregation for ImageRetrieval]()
+- [A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]()
+- []()
 
 #### Deep Learning Feature Based
 
@@ -35,12 +39,14 @@
 - [Selective Deep Convolutional Features for Image Retrieval](https://arxiv.org/pdf/1707.00809v1.pdf)
 - [Class-Weighted Convolutional Features for Image Retrieval](https://github.com/imatge-upc/retrieval-2017-cam)
 - [Towards Good Practices for Image Retrieval Based on CNN Features]()
+- [Fine-tuning CNN Image Retrieval with No Human Annotation](https://arxiv.org/abs/1711.02512)
 
 #### ANN search
 
 - [Practical and Optimal LSH for Angular Distance](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fpapers.nips.cc%2Fpaper%2F5893-practical-and-optimal-lsh-for-angular-distance.pdf)
 - [pq-fast-scan](https://github.com/technicolor-research/pq-fast-scan)
 - [faiss](https://github.com/facebookresearch/faiss). A library for efficient similarity search and clustering of dense vectors.
+- [Polysemous codes]()
 - [lopq](https://github.com/yahoo/lopq). Training of Locally Optimized Product Quantization (LOPQ) models for approximate nearest neighbor search of high dimensional data in Python and Spark.
 - [nns_benchmark](https://github.com/DBWangGroupUNSW/nns_benchmark). Benchmark of Nearest Neighbor Search on High Dimensional Data.
 - [Optimized Product Quantization](http://kaiminghe.com/cvpr13/index.html)
