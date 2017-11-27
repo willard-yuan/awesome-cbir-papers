@@ -18,7 +18,7 @@
 - [Image Classification with the Fisher Vector: Theory and Practice](https://hal.inria.fr/hal-00830491/document)
 - [Democratic Diffusion Aggregation for ImageRetrieval]()
 - [A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]()
-- []()
+- [Triangulation embedding and democratic aggregation for image search]()
 
 #### Deep Learning Feature Based
 
