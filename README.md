@@ -54,12 +54,16 @@
 - [Annoy](https://github.com/spotify/annoy). Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk 
 - [NMSLIB](https://github.com/searchivarius/nmslib). Non-Metric Space Library (NMSLIB): A similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
 
-#### Industry CBIR
+#### CBIR in Industry
 
 - [Visual Search at Pinterest]()
 - [Visual Discovery at Pinterest]()
 - [Visual Search at ebay]()
 - [Deep Learning based Large Scale Visual Recommendation and Search for E-Commerce](https://arxiv.org/abs/1703.02344), [project](https://github.com/flipkart-incubator/fk-visual-search)
+
+#### CBIR for Duplicate(copy) detection
+
+- [A Robust and Fast Video Copy Detection System Using Content-Based Fingerprinting](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwiisbW0maXYAhXLOY8KHUw0AEsQFgg7MAI&url=https%3A%2F%2Fpdfs.semanticscholar.org%2F7b4f%2F68e227999da8ffc6dc9f7fd34da5ebaad09f.pdf&usg=AOvVaw0mZvcT7VhEuEm68oieXLv-)
 
 #### Feature fusion
 
