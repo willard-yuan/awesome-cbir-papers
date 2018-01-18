@@ -47,6 +47,7 @@
 - [pq-fast-scan](https://github.com/technicolor-research/pq-fast-scan)
 - [faiss](https://github.com/facebookresearch/faiss). A library for efficient similarity search and clustering of dense vectors.
 - [Polysemous codes]()
+- [Optimized Product Quantization](http://kaiminghe.com/cvpr13/index.html)
 - [lopq](https://github.com/yahoo/lopq). Training of Locally Optimized Product Quantization (LOPQ) models for approximate nearest neighbor search of high dimensional data in Python and Spark.
 - [nns_benchmark](https://github.com/DBWangGroupUNSW/nns_benchmark). Benchmark of Nearest Neighbor Search on High Dimensional Data.
 - [Optimized Product Quantization](http://kaiminghe.com/cvpr13/index.html)
