@@ -20,7 +20,7 @@
 - [A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]()
 - [Triangulation embedding and democratic aggregation for image search]()
 
-#### Deep Learning Feature Based
+#### Deep Learning Feature (Global Feature)
 
 - [Deep Image Retrieval:Learning Global Representations for Image earch](https://arxiv.org/abs/1604.01325)
 - [End-to-end Learning of Deep Visual Representations for Image retrieval](), DIR更详细的论文说明
@@ -40,6 +40,13 @@
 - [Class-Weighted Convolutional Features for Image Retrieval](https://github.com/imatge-upc/retrieval-2017-cam)
 - [Towards Good Practices for Image Retrieval Based on CNN Features]()
 - [Fine-tuning CNN Image Retrieval with No Human Annotation](https://arxiv.org/abs/1711.02512)
+
+#### Deep Learning Feature (Local Feature)
+
+- [Learning Discriminative Affine Regions via Discriminability](http://cn.arxiv.org/pdf/1711.06704.pdf), [affnet](https://github.com/ducha-aiki/affnet)
+- [A Large Dataset for Improving Patch Matching](http://cn.arxiv.org/pdf/1801.01466.pdf), [PS-Dataset](https://github.com/rmitra/PS-Dataset)
+- [Working hard to know your neighbor's margins: Local descriptor learning loss](), [hardnet](https://github.com/DagnyT/hardnet)
+- [MatchNet: Unifying Feature and Metric Learning for Patch-Based Matching](), [matchnet](https://github.com/hanxf/matchnet)
 
 #### ANN search
 
