@@ -61,6 +61,7 @@
 - [Falconn](https://github.com/FALCONN-LIB/FALCONN). FAst Lookups of Cosine and Other Nearest Neighbors.
 - [Annoy](https://github.com/spotify/annoy). Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk 
 - [NMSLIB](https://github.com/searchivarius/nmslib). Non-Metric Space Library (NMSLIB): A similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
+- [Fast Approximate Nearest Neighbor Search With Navigating Spreading-out Graphs](https://arxiv.org/abs/1707.00143), [code](https://github.com/ZJULearning/nsg)
 
 #### CBIR in Industry
 
