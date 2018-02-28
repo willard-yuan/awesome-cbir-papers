@@ -97,6 +97,7 @@
 - [Recent Image Search Techniques](http://cvpr2016.thecvf.com/program/tutorials)
 - [Compact Features for Visual Search](http://cvpr2016.thecvf.com/program/tutorials)
 - [multimedia-indexing](https://github.com/MKLab-ITI/multimedia-indexing). A framework for large-scale feature extraction, indexing and retrieval.
+- [Image Similarity using Deep Ranking](https://medium.com/@akarshzingade/image-similarity-using-deep-ranking-c1bd83855978), [code](https://github.com/akarshzingade/image-similarity-deep-ranking).
 
 ### Useful Package
 
