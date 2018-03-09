@@ -1,5 +1,10 @@
 ## Awesome image retrieval papers
 
+### Plan to read
+
+- [Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking]()
+- [Fast Spectral Ranking for Similarity Search](http://cn.arxiv.org/pdf/1703.06935.pdf)
+
 #### Local Feature Based
 
 - [Object retrieval with large vocabularies and fast spatial matching](https://www.robots.ox.ac.uk/~vgg/publications/papers/philbin07.pdf)
