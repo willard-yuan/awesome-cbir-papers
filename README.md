@@ -2,8 +2,9 @@
 
 ### Plan to read
 
-- [Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking]()
-- [Fast Spectral Ranking for Similarity Search](http://cn.arxiv.org/pdf/1703.06935.pdf)
+- [Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking](), CVPR 2018
+- [Fast Spectral Ranking for Similarity Search](http://cn.arxiv.org/pdf/1703.06935.pdf), CVPR 2018
+- [Learning a Complete Image Indexing Pipeline](https://arxiv.org/pdf/1712.04480.pdf), CVPR 2018
 
 #### Local Feature Based
 
