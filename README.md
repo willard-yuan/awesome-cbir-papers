@@ -1,5 +1,11 @@
 ## Awesome image retrieval papers
 
+### CVPR 2018
+
+- [Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking](http://cmp.felk.cvut.cz/~toliageo/p/RadenovicIscenToliasAvrithisChum_CVPR2018_Revisiting%20Oxford%20and%20Paris:%20Large-Scale%20Image%20Retrieval%20Benchmarking.pdf), CVPR 2018
+- [Fast Spectral Ranking for Similarity Search](http://cn.arxiv.org/pdf/1703.06935.pdf), CVPR 2018
+- [Learning a Complete Image Indexing Pipeline](https://arxiv.org/pdf/1712.04480.pdf), CVPR 2018
+
 #### Local Feature Based
 
 - [Object retrieval with large vocabularies and fast spatial matching](https://www.robots.ox.ac.uk/~vgg/publications/papers/philbin07.pdf)
@@ -12,11 +18,15 @@
 - [All about VLAD]()
 - [Aggregating localdescriptors into a compact image representatio]()
 - [More About VLAD: A Leap from Euclidean to Riemannian Manifolds]()
+- [Hamming embedding and weak geometric consistency for large scale image search]()
 - [Revisiting the VLAD image representation](https://hal.inria.fr/hal-00840653v1/document), [project](https://github.com/jorjasso/VLAD/blob/master/VLADlib/VLAD.py)
 - [Improving the Fisher Kernel for Large-Scale Image Classification](https://www.robots.ox.ac.uk/~vgg/rg/papers/peronnin_etal_ECCV10.pdf)
 - [Image Classification with the Fisher Vector: Theory and Practice](https://hal.inria.fr/hal-00830491/document)
+- [Democratic Diffusion Aggregation for ImageRetrieval]()
+- [A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]()
+- [Triangulation embedding and democratic aggregation for image search]()
 
-#### Deep Learning Feature Based
+#### Deep Learning Feature (Global Feature)
 
 - [Deep Image Retrieval:Learning Global Representations for Image earch](https://arxiv.org/abs/1604.01325)
 - [End-to-end Learning of Deep Visual Representations for Image retrieval](), DIR更详细的论文说明
@@ -34,34 +44,54 @@
 - [Combining Fisher Vector and Convolutional Neural Networks for Image Retrieval](http://ceur-ws.org/Vol-1653/paper_19.pdf), fv和cnn特征融合提升
 - [Selective Deep Convolutional Features for Image Retrieval](https://arxiv.org/pdf/1707.00809v1.pdf)
 - [Class-Weighted Convolutional Features for Image Retrieval](https://github.com/imatge-upc/retrieval-2017-cam)
+- [Towards Good Practices for Image Retrieval Based on CNN Features]()
+- [Fine-tuning CNN Image Retrieval with No Human Annotation](https://arxiv.org/abs/1711.02512)
+
+#### Deep Learning Feature (Local Feature)
+
+- [Learning Discriminative Affine Regions via Discriminability](http://cn.arxiv.org/pdf/1711.06704.pdf), [affnet](https://github.com/ducha-aiki/affnet)
+- [A Large Dataset for Improving Patch Matching](http://cn.arxiv.org/pdf/1801.01466.pdf), [PS-Dataset](https://github.com/rmitra/PS-Dataset)
+- [Working hard to know your neighbor's margins: Local descriptor learning loss](), [hardnet](https://github.com/DagnyT/hardnet)
+- [MatchNet: Unifying Feature and Metric Learning for Patch-Based Matching](), [matchnet](https://github.com/hanxf/matchnet)
 
 #### ANN search
 
 - [Practical and Optimal LSH for Angular Distance](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fpapers.nips.cc%2Fpaper%2F5893-practical-and-optimal-lsh-for-angular-distance.pdf)
 - [pq-fast-scan](https://github.com/technicolor-research/pq-fast-scan)
 - [faiss](https://github.com/facebookresearch/faiss). A library for efficient similarity search and clustering of dense vectors.
+- [Polysemous codes]()
+- [Optimized Product Quantization](http://kaiminghe.com/cvpr13/index.html)
 - [lopq](https://github.com/yahoo/lopq). Training of Locally Optimized Product Quantization (LOPQ) models for approximate nearest neighbor search of high dimensional data in Python and Spark.
 - [nns_benchmark](https://github.com/DBWangGroupUNSW/nns_benchmark). Benchmark of Nearest Neighbor Search on High Dimensional Data.
 - [Optimized Product Quantization](http://kaiminghe.com/cvpr13/index.html)
 - [Falconn](https://github.com/FALCONN-LIB/FALCONN). FAst Lookups of Cosine and Other Nearest Neighbors.
 - [Annoy](https://github.com/spotify/annoy). Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk 
 - [NMSLIB](https://github.com/searchivarius/nmslib). Non-Metric Space Library (NMSLIB): A similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
+<<<<<<< HEAD
 - [Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](https://github.com/nmslib/hnsw), graph-based method.
+=======
+- [Fast Approximate Nearest Neighbor Search With Navigating Spreading-out Graphs](https://arxiv.org/abs/1707.00143), [code](https://github.com/ZJULearning/nsg)
+>>>>>>> 81c003378da35dd3dbe1e6055eedd1fb1c75e807
 
-#### Industry CBIR
+#### CBIR in Industry
 
 - [Visual Search at Pinterest]()
 - [Visual Discovery at Pinterest]()
 - [Visual Search at ebay]()
+- [Deep Learning based Large Scale Visual Recommendation and Search for E-Commerce](https://arxiv.org/abs/1703.02344), [project](https://github.com/flipkart-incubator/fk-visual-search)
 
-#### feature fusion
+#### CBIR for Duplicate(copy) detection
+
+- [A Robust and Fast Video Copy Detection System Using Content-Based Fingerprinting](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwiisbW0maXYAhXLOY8KHUw0AEsQFgg7MAI&url=https%3A%2F%2Fpdfs.semanticscholar.org%2F7b4f%2F68e227999da8ffc6dc9f7fd34da5ebaad09f.pdf&usg=AOvVaw0mZvcT7VhEuEm68oieXLv-)
+
+#### Feature fusion
 
 - [Feature fusion using Canonical Correlation Analysis](https://github.com/mhaghighat/ccaFuse)
 
 #### Feature Matching
 
 - [Image Matching Benchmark](https://arxiv.org/pdf/1709.03917.pdf)
-- [GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence]()
+- [GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence](https://github.com/JiawangBian/GMS-Feature-Matcher)
 - [A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval](https://github.com/vote-and-verify/vote-and-verify)
 - [CODE: Coherence Based Decision Boundaries for Feature Correspondence]()
 - [Robust feature matching in 2.3µs](https://www.edwardrosten.com/work/taylor_2009_robust.pdf)
@@ -77,53 +107,9 @@
 - [Recent Image Search Techniques](http://cvpr2016.thecvf.com/program/tutorials)
 - [Compact Features for Visual Search](http://cvpr2016.thecvf.com/program/tutorials)
 - [multimedia-indexing](https://github.com/MKLab-ITI/multimedia-indexing). A framework for large-scale feature extraction, indexing and retrieval.
+- [Image Similarity using Deep Ranking](https://medium.com/@akarshzingade/image-similarity-using-deep-ranking-c1bd83855978), [code](https://github.com/akarshzingade/image-similarity-deep-ranking).
 
+### Useful Package
 
-## Awesome multiclass classification
-
-### papers
-
-- [Loss Functions for Top-k Error: Analysis and Insights]() and [Top-k Multiclass SVM](), [code](https://github.com/mlapin/libsdca)
-
-### Tutorials
-
-- [Linear Classification](http://cs231n.github.io/linear-classify/), [中文版](http://blog.csdn.net/elaine_bao/article/details/50519970), [demo](http://vision.stanford.edu/teaching/cs231n/linear-classify-demo/)
-
----
-
-## Logo Detection and Classification
-
-### Papers
-
-- [LOGO-Net: Large-scale Deep Logo Detection and Brand Recognition with Deep Region-based Convolutional Networks](https://arxiv.org/abs/1511.02462)
-
----
-
-## Object Detection and Recognition
-
-### Papers
-
-- [SSD: Single Shot MultiBox Detector](www.cs.unc.edu/~wliu/papers/ssd.pdf), [code](https://github.com/weiliu89/caffe/tree/ssd)
-- [A Closer Look: Small Object Detection in Faster R-CNN]()
-
----
-
-## Video Classification
-
-### Papers
-
-- [Large-scale Video Classification with Convolutional Neural Networks](vision.stanford.edu/pdf/karpathy14.pdf)
-- [Learning Spatiotemporal Features With 3D Convolutional Networks](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf), [code](https://github.com/Lasagne/Recipes/blob/master/examples/Video%20features%20with%20C3D.ipynb), [doc](https://docs.google.com/document/d/1-QqZ3JHd76JfimY4QKqOojcEaf5g3JS0lNh-FHTxLag/edit), [project](http://vlg.cs.dartmouth.edu/c3d/)
-- [ActionVLAD: Learning spatio-temporal aggregation for action classification](https://rohitgirdhar.github.io/ActionVLAD/)
-
----
-
-## ROS for Robotics
-
-- [Learning_ROS_for_Robotics_Programming_2nd_edition](https://github.com/AaronMR/Learning_ROS_for_Robotics_Programming_2nd_edition)
-
----
-
-## Image Fingerprinting
-
-- [Video fingerprinting tool. Finding duplicate movies in a large dataset](https://github.com/funzoneq/video_fingerprinting)
+- [VLFeat](http://www.vlfeat.org/)
+- [Yael](http://yael.gforge.inria.fr/)
