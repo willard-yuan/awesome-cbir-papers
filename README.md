@@ -2,7 +2,7 @@
 
 ### CVPR 2018
 
-- [Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking](http://cmp.felk.cvut.cz/~toliageo/p/RadenovicIscenToliasAvrithisChum_CVPR2018_Revisiting%20Oxford%20and%20Paris:%20Large-Scale%20Image%20Retrieval%20Benchmarking.pdf), CVPR 2018
+- [Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking](http://cmp.felk.cvut.cz/~toliageo/p/RadenovicIscenToliasAvrithisChum_CVPR2018_Revisiting%20Oxford%20and%20Paris:%20Large-Scale%20Image%20Retrieval%20Benchmarking.pdf), [project](http://cmp.felk.cvut.cz/revisitop/), CVPR 2018
 - [Fast Spectral Ranking for Similarity Search](http://cn.arxiv.org/pdf/1703.06935.pdf), CVPR 2018
 - [Learning a Complete Image Indexing Pipeline](https://arxiv.org/pdf/1712.04480.pdf), CVPR 2018
 
@@ -66,12 +66,9 @@
 - [Optimized Product Quantization](http://kaiminghe.com/cvpr13/index.html)
 - [Falconn](https://github.com/FALCONN-LIB/FALCONN). FAst Lookups of Cosine and Other Nearest Neighbors.
 - [Annoy](https://github.com/spotify/annoy). Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk 
-- [NMSLIB](https://github.com/searchivarius/nmslib). Non-Metric Space Library (NMSLIB): A similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
-<<<<<<< HEAD
+- [NMSLIB](https://github.com/searchivarius/nmslib). Non-Metric Space Library (NMSLIB): A similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces. 
 - [Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](https://github.com/nmslib/hnsw), graph-based method.
-=======
 - [Fast Approximate Nearest Neighbor Search With Navigating Spreading-out Graphs](https://arxiv.org/abs/1707.00143), [code](https://github.com/ZJULearning/nsg)
->>>>>>> 81c003378da35dd3dbe1e6055eedd1fb1c75e807
 
 #### CBIR in Industry
 
