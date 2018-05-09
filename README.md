@@ -106,6 +106,10 @@
 - [multimedia-indexing](https://github.com/MKLab-ITI/multimedia-indexing). A framework for large-scale feature extraction, indexing and retrieval.
 - [Image Similarity using Deep Ranking](https://medium.com/@akarshzingade/image-similarity-using-deep-ranking-c1bd83855978), [code](https://github.com/akarshzingade/image-similarity-deep-ranking).
 
+### Demo online
+
+- [Visual Image Retrieval and Localization](http://viral.image.ntua.gr/), sift feature encoded by BOW.
+
 ### Useful Package
 
 - [VLFeat](http://www.vlfeat.org/)
