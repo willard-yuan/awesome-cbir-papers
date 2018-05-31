@@ -53,6 +53,7 @@
 - [A Large Dataset for Improving Patch Matching](http://cn.arxiv.org/pdf/1801.01466.pdf), [PS-Dataset](https://github.com/rmitra/PS-Dataset)
 - [Working hard to know your neighbor's margins: Local descriptor learning loss](), [hardnet](https://github.com/DagnyT/hardnet)
 - [MatchNet: Unifying Feature and Metric Learning for Patch-Based Matching](), [matchnet](https://github.com/hanxf/matchnet)
+- [LF-Net: Learning Local Features from Images](https://arxiv.org/abs/1805.09662)
 
 #### ANN search
 
