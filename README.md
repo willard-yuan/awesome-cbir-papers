@@ -73,8 +73,9 @@
 
 #### CBIR in Industry
 
-- [Visual Search at Pinterest]()
-- [Visual Discovery at Pinterest]()
+- [Web-Scale Responsive Visual Search at Bing](https://arxiv.org/abs/1802.04914)
+- [Visual Search at Pinterest](https://labs.pinterest.com/user/themes/pinlabs/assets/paper/visual_search_at_pinterest.pdf)
+- [Visual Discovery at Pinterest](https://arxiv.org/abs/1702.04680)
 - [Visual Search at ebay]()
 - [Deep Learning based Large Scale Visual Recommendation and Search for E-Commerce](https://arxiv.org/abs/1703.02344), [project](https://github.com/flipkart-incubator/fk-visual-search)
 
