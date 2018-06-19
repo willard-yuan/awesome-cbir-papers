@@ -89,11 +89,11 @@
 
 - [A Robust and Fast Video Copy Detection System Using Content-Based Fingerprinting](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwiisbW0maXYAhXLOY8KHUw0AEsQFgg7MAI&url=https%3A%2F%2Fpdfs.semanticscholar.org%2F7b4f%2F68e227999da8ffc6dc9f7fd34da5ebaad09f.pdf&usg=AOvVaw0mZvcT7VhEuEm68oieXLv-)
 
-#### Feature fusion
+#### Feature Fusion
 
 - [Feature fusion using Canonical Correlation Analysis](https://github.com/mhaghighat/ccaFuse)
 
-#### Feature Matching
+#### Instance Matching
 
 - [Graph-Cut RANSAC](https://arxiv.org/abs/1706.00984), [code](https://github.com/danini/graph-cut-ransac)
 - [Image Matching Benchmark](https://arxiv.org/pdf/1709.03917.pdf)
@@ -103,6 +103,10 @@
 - [Robust feature matching in 2.3µs](https://www.edwardrosten.com/work/taylor_2009_robust.pdf)
 - [PopSift is an implementation of the SIFT algorithm in CUDA](https://github.com/alicevision/popsift)
 - [openMVG robust_estimation](https://github.com/openMVG/openMVG/tree/e3a0bde5e9c676d1cb663a38f7e74c771324d69a/src/openMVG/robust_estimation)
+
+#### Semantic Matching
+
+- [End-to-end weakly-supervised semantic alignment](https://github.com/ignacio-rocco/weakalign)
 
 #### Plan to read
 
@@ -117,9 +121,11 @@
 - [Image Similarity using Deep Ranking](https://medium.com/@akarshzingade/image-similarity-using-deep-ranking-c1bd83855978), [code](https://github.com/akarshzingade/image-similarity-deep-ranking).
 - [Triplet Loss and Online Triplet Mining in TensorFlow](https://omoindrot.github.io/triplet-loss)
 
-### Demo online
+### Demo and Demo Online
 
-- [Visual Image Retrieval and Localization](http://viral.image.ntua.gr/), sift feature encoded by BOW.
+- [Visual Image Retrieval and Localization](http://viral.image.ntua.gr/), SIFT feature encoded by BOW.
+- [VGG Image Search Engine](https://gitlab.com/vgg/vise), SIFT feature encoded by BOW.
+- [SoTu](https://github.com/zysite/SoTu), A flask-based cbir system.
 
 ### Useful Package
 
