@@ -25,6 +25,7 @@
 - [Democratic Diffusion Aggregation for ImageRetrieval]()
 - [A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]()
 - [Triangulation embedding and democratic aggregation for image search]()
+- [Dynamicity and Durability in Scalable Visual Instance Search](https://arxiv.org/pdf/1805.10942.pdf)
 
 #### Deep Learning Feature (Global Feature)
 
@@ -73,6 +74,7 @@
 
 #### CBIR in Industry
 
+- [Videntifier](http://flickrdemo.videntifier.com/) is a visual search engine based on a patented large-scale local feature database
 - [Web-Scale Responsive Visual Search at Bing](https://arxiv.org/abs/1802.04914)
 - [Visual Search at Pinterest](https://labs.pinterest.com/user/themes/pinlabs/assets/paper/visual_search_at_pinterest.pdf)
 - [Visual Discovery at Pinterest](https://arxiv.org/abs/1702.04680)
