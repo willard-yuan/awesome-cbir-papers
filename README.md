@@ -55,6 +55,8 @@
 - [Working hard to know your neighbor's margins: Local descriptor learning loss](), [hardnet](https://github.com/DagnyT/hardnet)
 - [MatchNet: Unifying Feature and Metric Learning for Patch-Based Matching](), [matchnet](https://github.com/hanxf/matchnet)
 - [LF-Net: Learning Local Features from Images](https://arxiv.org/abs/1805.09662)
+- [Local Descriptors Optimized for Average Precision](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_Local_Descriptors_Optimized_CVPR_2018_paper.pdf), CVPR 2018
+- [SuperPoint: Self-Supervised Interest Point Detection and Description](http://cn.arxiv.org/pdf/1712.07629.pdf), Magic Leap
 
 #### ANN search
 
@@ -109,6 +111,10 @@
 #### Semantic Matching
 
 - [End-to-end weakly-supervised semantic alignment](https://github.com/ignacio-rocco/weakalign)
+
+### Image Identification
+
+- [Image Identification Using SIFT Algorithm: Performance Analysis against Different Image Deformations](https://arxiv.org/pdf/1710.02728.pdf)
 
 #### Plan to read
 
