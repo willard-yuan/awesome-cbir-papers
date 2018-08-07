@@ -25,7 +25,6 @@
 - [Democratic Diffusion Aggregation for ImageRetrieval]()
 - [A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]()
 - [Triangulation embedding and democratic aggregation for image search]()
-- [Dynamicity and Durability in Scalable Visual Instance Search](https://arxiv.org/pdf/1805.10942.pdf)
 
 #### Deep Learning Feature (Global Feature)
 
@@ -65,7 +64,7 @@
 - [Practical and Optimal LSH for Angular Distance](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fpapers.nips.cc%2Fpaper%2F5893-practical-and-optimal-lsh-for-angular-distance.pdf)
 - [pq-fast-scan](https://github.com/technicolor-research/pq-fast-scan)
 - [faiss](https://github.com/facebookresearch/faiss). A library for efficient similarity search and clustering of dense vectors.
-- [Polysemous codes]()
+- [Polysemous codes](https://arxiv.org/abs/1609.01882)
 - [Optimized Product Quantization](http://kaiminghe.com/cvpr13/index.html)
 - [lopq](https://github.com/yahoo/lopq). Training of Locally Optimized Product Quantization (LOPQ) models for approximate nearest neighbor search of high dimensional data in Python and Spark.
 - [nns_benchmark](https://github.com/DBWangGroupUNSW/nns_benchmark). Benchmark of Nearest Neighbor Search on High Dimensional Data.
@@ -76,6 +75,8 @@
 - [Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](https://github.com/nmslib/hnsw), graph-based method.
 - [Fast Approximate Nearest Neighbor Search With Navigating Spreading-out Graphs](https://arxiv.org/abs/1707.00143), [code](https://github.com/ZJULearning/nsg)
 - [Efficient Nearest Neighbors Search for Large-Scale Landmark Recognition](http://cn.arxiv.org/pdf/1806.05946.pdf)
+- [NV-tree: A Scalable Disk-Based High-Dimensional Index](https://en.ru.is/media/skjol-td/PhDHerwig.pdf)
+- [Dynamicity and Durability in Scalable Visual Instance Search](https://arxiv.org/abs/1805.10942)
 
 #### CBIR in Industry
 
@@ -137,8 +138,9 @@
 - [Visual Image Retrieval and Localization](http://viral.image.ntua.gr/), SIFT feature encoded by BOW.
 - [VGG Image Search Engine](https://gitlab.com/vgg/vise), SIFT feature encoded by BOW.
 - [SoTu](https://github.com/zysite/SoTu), A flask-based cbir system.
-
-### Useful Package
+- [yisou](https://yisou.yuanbin.me/), A flask-based painting cbir system, the search algorithm is designed by [Yong Yuan](http://yongyuan.name/).
+ 
+### Useful Package 
 
 - [VLFeat](http://www.vlfeat.org/)
 - [Yael](http://yael.gforge.inria.fr/)
