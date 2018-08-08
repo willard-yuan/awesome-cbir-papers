@@ -77,6 +77,7 @@
 - [Efficient Nearest Neighbors Search for Large-Scale Landmark Recognition](http://cn.arxiv.org/pdf/1806.05946.pdf)
 - [NV-tree: A Scalable Disk-Based High-Dimensional Index](https://en.ru.is/media/skjol-td/PhDHerwig.pdf)
 - [Dynamicity and Durability in Scalable Visual Instance Search](https://arxiv.org/abs/1805.10942)
+- [Link and code: Fast indexing with graphs and compact regression codes](https://arxiv.org/abs/1804.09996)
 
 #### CBIR in Industry
 
