@@ -25,6 +25,7 @@
 - [Democratic Diffusion Aggregation for ImageRetrieval]()
 - [A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]()
 - [Triangulation embedding and democratic aggregation for image search]()
+- [Efficient Large-scale Image Search With a Vocabulary Tree](http://www.ipol.im/pub/art/2018/199/), [code](https://github.com/fragofer/voctree)
 
 #### Deep Learning Feature (Global Feature)
 
