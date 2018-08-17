@@ -29,9 +29,9 @@
 
 #### Deep Learning Feature (Global Feature)
 
-- [Deep Image Retrieval:Learning Global Representations for Image earch](https://arxiv.org/abs/1604.01325)
-- [End-to-end Learning of Deep Visual Representations for Image retrieval](), DIR更详细的论文说明
-- [What Is the Best Practice for CNNs Applied to Visual Instance Retrieval?](), 关于layer选取的问题
+- [Deep Image Retrieval:Learning Global Representations for Image search](https://arxiv.org/abs/1604.01325)
+- [End-to-end Learning of Deep Visual Representations for Image retrieval](https://arxiv.org/abs/1610.07940), DIR更详细的论文说明
+- [What Is the Best Practice for CNNs Applied to Visual Instance Retrieval?](https://arxiv.org/abs/1611.01640), 关于layer选取的问题
 - [Bags of Local Convolutional Features for Scalable Instance Search](https://arxiv.org/abs/1604.01325)
 - [Faster R-CNN Features for Instance Search](https://github.com/imatge-upc/retrieval-2016-deepvision)
 - [Cross-dimensional Weighting for Aggregated Deep Convolutional Features](https://arxiv.org/abs/1512.04065), [project](https://github.com/yahoo/crow)
