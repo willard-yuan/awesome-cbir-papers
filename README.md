@@ -135,6 +135,10 @@
 - [Image Similarity using Deep Ranking](https://medium.com/@akarshzingade/image-similarity-using-deep-ranking-c1bd83855978), [code](https://github.com/akarshzingade/image-similarity-deep-ranking).
 - [Triplet Loss and Online Triplet Mining in TensorFlow](https://omoindrot.github.io/triplet-loss)
 
+### Slide
+
+- [VRG Prague in “Large-Scale Landmark Recognition Challenge”](https://drive.google.com/file/d/1NFhfkqKjo_bXM-yuI3KbZt_iHRmiUyTG/view), ranked 3rd in the Google Landmark Recognition Challenge.
+
 ### Demo and Demo Online
 
 - [Visual Image Retrieval and Localization](http://viral.image.ntua.gr/), SIFT feature encoded by BOW.
