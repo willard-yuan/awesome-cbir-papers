@@ -59,6 +59,7 @@
 - [LF-Net: Learning Local Features from Images](https://arxiv.org/abs/1805.09662)
 - [Local Descriptors Optimized for Average Precision](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_Local_Descriptors_Optimized_CVPR_2018_paper.pdf), CVPR 2018
 - [SuperPoint: Self-Supervised Interest Point Detection and Description](http://cn.arxiv.org/pdf/1712.07629.pdf), Magic Leap
+- [GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints](https://arxiv.org/pdf/1807.06294.pdf), [code](https://github.com/lzx551402/geodesc), ECCV 2018.
 
 #### ANN search
 
