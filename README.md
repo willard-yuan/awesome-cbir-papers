@@ -49,6 +49,7 @@
 - [Fine-tuning CNN Image Retrieval with No Human Annotation](https://arxiv.org/abs/1711.02512)
 - [An accurate retrieval through R-MAC+ descriptors for landmark recognition](https://arxiv.org/pdf/1806.08565.pdf)
 - [Regional Attention Based Deep Feature for Image Retrieval](https://sglab.kaist.ac.kr/RegionalAttention/), [code](https://github.com/jaeyoon1603/Retrieval-RegionalAttention), BMVC 2018.
+- [Detect-to-Retrieve: Efficient Regional Aggregation for Image Search](https://arxiv.org/pdf/1812.01584.pdf), arxiv.
 
 #### Deep Learning Feature (Local Feature)
 
