@@ -1,5 +1,10 @@
 ## Awesome image retrieval papers
 
+### ARXIV
+
+- [Composing Text and Image for Image Retrieval - An Empirical Odyssey](https://arxiv.org/pdf/1812.07119.pdf)
+- [Visualizing Deep Similarity Networks](https://arxiv.org/pdf/1901.00536.pdf)
+
 ### CVPR 2018
 
 - [Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking](http://cmp.felk.cvut.cz/~toliageo/p/RadenovicIscenToliasAvrithisChum_CVPR2018_Revisiting%20Oxford%20and%20Paris:%20Large-Scale%20Image%20Retrieval%20Benchmarking.pdf), [project](http://cmp.felk.cvut.cz/revisitop/), CVPR 2018
