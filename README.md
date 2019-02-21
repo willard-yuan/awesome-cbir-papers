@@ -2,6 +2,7 @@
 
 ### ARXIV
 
+- [MultiGrain: a unified image embedding for classes and instances](https://arxiv.org/abs/1902.05509)，将相似和实例检索统一在一个框架中，强烈推荐。
 - [Composing Text and Image for Image Retrieval - An Empirical Odyssey](https://arxiv.org/pdf/1812.07119.pdf)
 - [Visualizing Deep Similarity Networks](https://arxiv.org/pdf/1901.00536.pdf)
 
