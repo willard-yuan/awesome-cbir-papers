@@ -157,6 +157,10 @@
 - [VGG Image Search Engine](https://gitlab.com/vgg/vise), SIFT feature encoded by BOW.
 - [SoTu](https://github.com/zysite/SoTu), A flask-based cbir system.
 - [yisou](https://yisou.yuanbin.me/), A flask-based painting cbir system, the search algorithm is designed by [Yong Yuan](http://yongyuan.name/).
+
+### Datasets
+
+- [DeepFashion2 Dataset](https://github.com/switchablenorms/DeepFashion2), DeepFashion2 is a comprehensive fashion dataset.
  
 ### Useful Package 
 
