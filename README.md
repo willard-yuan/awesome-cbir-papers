@@ -1,10 +1,16 @@
 ## Awesome image retrieval papers
 
+### CVPR 2019
+
+- [Local Features and Visual Words Emerge in Activations](https://avrithis.net/data/pub/pdf/conf/C110.cvpr19.spatial.pdf).
+- [Explicit Spatial Encoding for Deep Local Descriptors](https://arxiv.org/abs/1904.07190).
+
 ### ARXIV
 
-- [MultiGrain: a unified image embedding for classes and instances](https://arxiv.org/abs/1902.05509)，Hervé Jégou, Andrea Vedaldi, Matthijs Douze，三牛首次出现在同一paper中。将相似和实例检索统一在一个框架中，强烈推荐。
+- [MultiGrain: a unified image embedding for classes and instances](https://arxiv.org/abs/1902.05509)，Hervé Jégou, Andrea Vedaldi, Matthijs Douze，三牛首次出现在同一paper中。将相似和实例检索统一在一个框架中。
 - [Composing Text and Image for Image Retrieval - An Empirical Odyssey](https://arxiv.org/pdf/1812.07119.pdf)
 - [Visualizing Deep Similarity Networks](https://arxiv.org/pdf/1901.00536.pdf)
+- [Combination of Multiple Global Descriptors for Image Retrieval](https://github.com/naver/cgd)
 
 #### Local Feature Based
 
