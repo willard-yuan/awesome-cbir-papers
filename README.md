@@ -131,6 +131,7 @@
 - [Robust feature matching in 2.3µs](https://www.edwardrosten.com/work/taylor_2009_robust.pdf)
 - [PopSift is an implementation of the SIFT algorithm in CUDA](https://github.com/alicevision/popsift)
 - [openMVG robust_estimation](https://github.com/openMVG/openMVG/tree/e3a0bde5e9c676d1cb663a38f7e74c771324d69a/src/openMVG/robust_estimation)
+- [Neural-Guided RANSAC: Learning Where to Sample Model Hypotheses](https://arxiv.org/pdf/1905.04132v1.pdf).
 
 #### Semantic Matching
 
