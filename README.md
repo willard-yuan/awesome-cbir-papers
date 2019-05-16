@@ -93,6 +93,7 @@
 - [A Survey of Product Quantization](https://www.jstage.jst.go.jp/article/mta/6/1/6_2/_pdf/)，对于矢量量化方法一篇比较完整的调研，值得一读
 - [GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints](https://arxiv.org/abs/1807.06294)，学习局部特征的descriptor，匹配能力较强
 - [Learning a Complete Image Indexing Pipeline](https://arxiv.org/pdf/1712.04480.pdf), CVPR 2018
+- [spreading vectors for similarity search](https://arxiv.org/abs/1806.03198), ICLR 2019.
 
 #### CBIR rank
 
