@@ -142,10 +142,6 @@
 
 - [Image Identification Using SIFT Algorithm: Performance Analysis against Different Image Deformations](https://arxiv.org/pdf/1710.02728.pdf)
 
-#### Plan to read
-
-- [VisualRank: Applying PageRank to Large-Scale Image Search]()
-
 ### Tutorials
 
 - [How to Apply Distance Metric Learning to Street-to-Shop Problem](https://medium.com/mlreview/how-to-apply-distance-metric-learning-for-street-to-shop-problem-d21247723d2a)
@@ -154,6 +150,7 @@
 - [multimedia-indexing](https://github.com/MKLab-ITI/multimedia-indexing). A framework for large-scale feature extraction, indexing and retrieval.
 - [Image Similarity using Deep Ranking](https://medium.com/@akarshzingade/image-similarity-using-deep-ranking-c1bd83855978), [code](https://github.com/akarshzingade/image-similarity-deep-ranking).
 - [Triplet Loss and Online Triplet Mining in TensorFlow](https://omoindrot.github.io/triplet-loss)
+- [tf_retrieval_baseline](https://github.com/ahmdtaha/tf_retrieval_baseline).
 
 ### Slide
 
