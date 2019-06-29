@@ -95,6 +95,7 @@
 - [GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints](https://arxiv.org/abs/1807.06294)，学习局部特征的descriptor，匹配能力较强
 - [Learning a Complete Image Indexing Pipeline](https://arxiv.org/pdf/1712.04480.pdf), CVPR 2018
 - [spreading vectors for similarity search](https://arxiv.org/abs/1806.03198), ICLR 2019.
+- [SPTAG](urlhttps://github.com/microsoft/SPTAG): A library for fast approximate nearest neighbor search. Microsoft.
 
 #### CBIR rank
 
