@@ -74,6 +74,7 @@
 
 #### ANN search
 
+- [Learning to Route in Similarity Graphs](https://arxiv.org/abs/1905.10987), ICML 2019.
 - [Practical and Optimal LSH for Angular Distance](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fpapers.nips.cc%2Fpaper%2F5893-practical-and-optimal-lsh-for-angular-distance.pdf)
 - [pq-fast-scan](https://github.com/technicolor-research/pq-fast-scan)
 - [faiss](https://github.com/facebookresearch/faiss). A library for efficient similarity search and clustering of dense vectors.
