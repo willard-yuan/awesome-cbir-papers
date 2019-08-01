@@ -7,6 +7,7 @@
 
 ### ARXIV
 
+- [A Benchmark on Tricks for Large-scale Image Retrieval](https://arxiv.org/pdf/1907.11854.pdf)，通用图像检索各种trick介绍。
 - [Learning with Average Precision: Training Image Retrieval with a Listwise Loss](https://arxiv.org/pdf/1906.07589v1.pdf), deep image retrieval续作。
 - [MultiGrain: a unified image embedding for classes and instances](https://arxiv.org/abs/1902.05509)，Hervé Jégou, Andrea Vedaldi, Matthijs Douze，三牛首次出现在同一paper中。将相似和实例检索统一在一个框架中。
 - [Composing Text and Image for Image Retrieval - An Empirical Odyssey](https://arxiv.org/pdf/1812.07119.pdf)
