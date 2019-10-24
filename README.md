@@ -1,10 +1,5 @@
 ## Awesome image retrieval papers
 
-### CVPR 2019
-
-- [Local Features and Visual Words Emerge in Activations](https://avrithis.net/data/pub/pdf/conf/C110.cvpr19.spatial.pdf).
-- [Explicit Spatial Encoding for Deep Local Descriptors](https://arxiv.org/abs/1904.07190).
-
 ### ARXIV
 
 - [A Benchmark on Tricks for Large-scale Image Retrieval](https://arxiv.org/pdf/1907.11854.pdf)，通用图像检索各种trick介绍。
@@ -72,6 +67,8 @@
 - [GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints](https://arxiv.org/pdf/1807.06294.pdf), [code](https://github.com/lzx551402/geodesc), ECCV 2018.
 - [Learning local feature descriptors with triplets and shallow convolutional neural networks](https://github.com/vbalnt/tfeat), BMVC 2016.
 - [SOSNet: Second Order Similarity Regularization for Local Descriptor Learning](https://github.com/scape-research/SOSNet), CVPR 2019.
+- [Local Features and Visual Words Emerge in Activations](https://avrithis.net/data/pub/pdf/conf/C110.cvpr19.spatial.pdf), CVPR 2019.
+- [Explicit Spatial Encoding for Deep Local Descriptors](https://arxiv.org/abs/1904.07190), CVPR 2019.
 
 #### ANN search
 
@@ -106,7 +103,7 @@
 
 #### CBIR in Industry
 
-- [Videntifier](http://flickrdemo.videntifier.com/) is a visual search engine based on a patented large-scale local feature database
+- [Videntifier](http://videntifier.com/) is a visual search engine based on a patented large-scale local feature database, [demo](http://flickrdemo.videntifier.com/), based on SIFT feature and NV-tree.
 - [Web-Scale Responsive Visual Search at Bing](https://arxiv.org/abs/1802.04914)
 - [Visual Search at Pinterest](https://labs.pinterest.com/user/themes/pinlabs/assets/paper/visual_search_at_pinterest.pdf)
 - [Visual Discovery at Pinterest](https://arxiv.org/abs/1702.04680)
