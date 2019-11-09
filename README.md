@@ -69,6 +69,7 @@
 - [SOSNet: Second Order Similarity Regularization for Local Descriptor Learning](https://github.com/scape-research/SOSNet), CVPR 2019.
 - [Local Features and Visual Words Emerge in Activations](https://avrithis.net/data/pub/pdf/conf/C110.cvpr19.spatial.pdf), CVPR 2019.
 - [Explicit Spatial Encoding for Deep Local Descriptors](https://arxiv.org/abs/1904.07190), CVPR 2019.
+- [Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters](https://github.com/axelBarroso/Key.Net), ICCV 2019.
 
 #### ANN search
 
