@@ -1,6 +1,28 @@
-## Awesome image retrieval papers
+# Awesome image retrieval papers
 
-### ARXIV
+The main goal is collect classical and solid work of image retrieval in academia and industry.
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+- [ARXIV](#ARXIV)
+- [Local Feature Based](#Local Feature Based)
+- [Deep Learning Feature (Global Feature)](#Deep Learning Feature (Global Feature))
+- [Deep Learning Feature (Local Feature)](#Deep Learning Feature (Local Feature))
+- [ANN search](#ANN search)
+- [CBIR rank](#CBIR rank)
+- [CBIR in Industry](#CBIR in Industry)
+- [CBIR Competition and Challenge](#CBIR Competition and Challenge)
+- [CBIR for Duplicate(copy) detection](#CBIR for Duplicate(copy) detection)
+- [Feature Fusion](#Feature Fusion)
+- [Instance Matching](#Instance Matching)
+- [Semantic Matching](#Semantic Matching)
+- [Image Identification](#Image Identification)
+- [Tutorials](#Tutorials)
+- [Demo and Demo Online](#Demo and Demo Online)
+- [Datasets](#Datasets)
+- [Useful Package](#Useful Package)
+
+## ARXIV
 
 - [A Benchmark on Tricks for Large-scale Image Retrieval](https://arxiv.org/pdf/1907.11854.pdf)，通用图像检索各种trick介绍。
 - [Learning with Average Precision: Training Image Retrieval with a Listwise Loss](https://arxiv.org/pdf/1906.07589v1.pdf), deep image retrieval续作。
@@ -9,7 +31,7 @@
 - [Visualizing Deep Similarity Networks](https://arxiv.org/pdf/1901.00536.pdf)
 - [Combination of Multiple Global Descriptors for Image Retrieval](https://github.com/naver/cgd)
 
-#### Local Feature Based
+## Local Feature Based
 
 - [Object retrieval with large vocabularies and fast spatial matching](https://www.robots.ox.ac.uk/~vgg/publications/papers/philbin07.pdf)
 - [Visual Categorization with Bags of Keypoints](http://www.cs.princeton.edu/courses/archive/fall09/cos429/papers/csurka-eccv-04.pdf)
@@ -30,7 +52,7 @@
 - [Triangulation embedding and democratic aggregation for image search]()
 - [Efficient Large-scale Image Search With a Vocabulary Tree](http://www.ipol.im/pub/art/2018/199/), [code](https://github.com/fragofer/voctree)
 
-#### Deep Learning Feature (Global Feature)
+## Deep Learning Feature (Global Feature)
 
 - [Deep Image Retrieval:Learning Global Representations for Image search](https://arxiv.org/abs/1604.01325)
 - [End-to-end Learning of Deep Visual Representations for Image retrieval](https://arxiv.org/abs/1610.07940), DIR更详细的论文说明
@@ -56,7 +78,7 @@
 - [Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking](http://cmp.felk.cvut.cz/~toliageo/p/RadenovicIscenToliasAvrithisChum_CVPR2018_Revisiting%20Oxford%20and%20Paris:%20Large-Scale%20Image%20Retrieval%20Benchmarking.pdf), [project](http://cmp.felk.cvut.cz/revisitop/), CVPR 2018.
 - [Guided Similarity Separation for Image Retrieval](https://github.com/layer6ai-labs/GSS), NeurIPS 2019.
 
-#### Deep Learning Feature (Local Feature)
+## Deep Learning Feature (Local Feature)
 
 - [Learning Discriminative Affine Regions via Discriminability](http://cn.arxiv.org/pdf/1711.06704.pdf), [affnet](https://github.com/ducha-aiki/affnet)
 - [A Large Dataset for Improving Patch Matching](http://cn.arxiv.org/pdf/1801.01466.pdf), [PS-Dataset](https://github.com/rmitra/PS-Dataset)
@@ -72,7 +94,7 @@
 - [Explicit Spatial Encoding for Deep Local Descriptors](https://arxiv.org/abs/1904.07190), CVPR 2019.
 - [Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters](https://github.com/axelBarroso/Key.Net), ICCV 2019.
 
-#### ANN search
+## ANN search
 
 - [GGNN: Graph-based GPU Nearest Neighbor Search](https://github.com/cgtuebingen/ggnn), arxiv 2019.
 - [Learning to Route in Similarity Graphs](https://arxiv.org/abs/1905.10987), ICML 2019.
@@ -100,11 +122,11 @@
 - [spreading vectors for similarity search](https://arxiv.org/abs/1806.03198), ICLR 2019.
 - [SPTAG](urlhttps://github.com/microsoft/SPTAG): A library for fast approximate nearest neighbor search. Microsoft.
 
-#### CBIR rank
+## CBIR rank
 
 - [Fast Spectral Ranking for Similarity Search](http://cn.arxiv.org/pdf/1703.06935.pdf), [code](https://github.com/ducha-aiki/manifold-diffusion), CVPR 2018
 
-#### CBIR in Industry
+## CBIR in Industry
 
 - [Videntifier](http://videntifier.com/) is a visual search engine based on a patented large-scale local feature database, [demo](http://flickrdemo.videntifier.com/), based on SIFT feature and NV-tree.
 - [Web-Scale Responsive Visual Search at Bing](https://arxiv.org/abs/1802.04914)
@@ -113,22 +135,22 @@
 - [Visual Search at ebay]()
 - [Deep Learning based Large Scale Visual Recommendation and Search for E-Commerce](https://arxiv.org/abs/1703.02344), [project](https://github.com/flipkart-incubator/fk-visual-search)
 
-#### CBIR Competition and Challenge
+## CBIR Competition and Challenge
 
 - [Google Landmark Retrieval Challenge](https://www.kaggle.com/c/landmark-retrieval-challenge), 2018
 - [Alibaba Large-scale Image Search Challenge](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231510&_lang=en_US), 2015
 - [Pkbigdata image retrieval](http://www.pkbigdata.com/common/cmpt/%E5%9B%BE%E5%83%8F%E6%90%9C%E7%B4%A2%E7%AB%9E%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html), 2015
 - [Large-scale Landmark Retrieval/Recognition under a Noisy and Diverse Dataset](https://arxiv.org/pdf/1906.04087.pdf), [Landmark2019-1st-and-3rd-Place-Solution](https://github.com/lyakaap/Landmark2019-1st-and-3rd-Place-Solution).
 
-#### CBIR for Duplicate(copy) detection
+## CBIR for Duplicate(copy) detection
 
 - [A Robust and Fast Video Copy Detection System Using Content-Based Fingerprinting](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwiisbW0maXYAhXLOY8KHUw0AEsQFgg7MAI&url=https%3A%2F%2Fpdfs.semanticscholar.org%2F7b4f%2F68e227999da8ffc6dc9f7fd34da5ebaad09f.pdf&usg=AOvVaw0mZvcT7VhEuEm68oieXLv-)
 
-#### Feature Fusion
+## Feature Fusion
 
 - [Feature fusion using Canonical Correlation Analysis](https://github.com/mhaghighat/ccaFuse)
 
-#### Instance Matching
+## Instance Matching
 
 - [Graph-Cut RANSAC](https://arxiv.org/abs/1706.00984), [code](https://github.com/danini/graph-cut-ransac)
 - [Image Matching Benchmark](https://arxiv.org/pdf/1709.03917.pdf)
@@ -141,15 +163,15 @@
 - [Neural-Guided RANSAC: Learning Where to Sample Model Hypotheses](https://arxiv.org/pdf/1905.04132v1.pdf).
 - [Homography from two orientation- and scale-covariant features](https://arxiv.org/pdf/1906.11927.pdf), [code](https://github.com/danini/homography-from-sift-features).
 
-#### Semantic Matching
+## Semantic Matching
 
 - [End-to-end weakly-supervised semantic alignment](https://github.com/ignacio-rocco/weakalign)
 
-### Image Identification
+## Image Identification
 
 - [Image Identification Using SIFT Algorithm: Performance Analysis against Different Image Deformations](https://arxiv.org/pdf/1710.02728.pdf)
 
-### Tutorials
+## Tutorials
 
 - [How to Apply Distance Metric Learning to Street-to-Shop Problem](https://medium.com/mlreview/how-to-apply-distance-metric-learning-for-street-to-shop-problem-d21247723d2a)
 - [Recent Image Search Techniques](http://cvpr2016.thecvf.com/program/tutorials)
@@ -159,22 +181,22 @@
 - [Triplet Loss and Online Triplet Mining in TensorFlow](https://omoindrot.github.io/triplet-loss)
 - [tf_retrieval_baseline](https://github.com/ahmdtaha/tf_retrieval_baseline).
 
-### Slide
+## Slide
 
 - [VRG Prague in “Large-Scale Landmark Recognition Challenge”](https://drive.google.com/file/d/1NFhfkqKjo_bXM-yuI3KbZt_iHRmiUyTG/view), ranked 3rd in the Google Landmark Recognition Challenge.
 
-### Demo and Demo Online
+## Demo and Demo Online
 
 - [Visual Image Retrieval and Localization](http://viral.image.ntua.gr/), SIFT feature encoded by BOW.
 - [VGG Image Search Engine](https://gitlab.com/vgg/vise), SIFT feature encoded by BOW.
 - [SoTu](https://github.com/zysite/SoTu), A flask-based cbir system.
 - [yisou](https://yisou.yuanbin.me/), A flask-based painting cbir system, the search algorithm is designed by [Yong Yuan](http://yongyuan.name/).
 
-### Datasets
+## Datasets
 
 - [DeepFashion2 Dataset](https://github.com/switchablenorms/DeepFashion2), DeepFashion2 is a comprehensive fashion dataset.
  
-### Useful Package 
+## Useful Package 
 
 - [VLFeat](http://www.vlfeat.org/)
 - [Yael](http://yael.gforge.inria.fr/)
