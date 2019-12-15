@@ -1,3 +1,11 @@
+<div align="center">
+	<img width="500" height="350" src="logo.svg" alt="Awesome">
+	<br>
+  <p>
+    <a href="https://github.com/willard-yuan/awesome-cbir-papers">CBIR in academia and industry</a>
+  </p>
+</div>
+
 # Awesome image retrieval papers
 
 The main goal is collect classical and solid work of image retrieval in academia and industry.
