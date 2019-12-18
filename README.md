@@ -88,7 +88,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 ## Deep Learning Feature (Local Feature)
 
-- [R2D2: Reliable and Repeatable Detector and Descriptor](https://arxiv.org/abs/1906.06195), [R2D2](https://github.com/naver/r2d2)
+- [R2D2: Reliable and Repeatable Detector and Descriptor](https://arxiv.org/abs/1906.06195), [R2D2](https://github.com/naver/r2d2), NeurIPS 2019.
 - [Learning Discriminative Affine Regions via Discriminability](http://cn.arxiv.org/pdf/1711.06704.pdf), [affnet](https://github.com/ducha-aiki/affnet)
 - [A Large Dataset for Improving Patch Matching](http://cn.arxiv.org/pdf/1801.01466.pdf), [PS-Dataset](https://github.com/rmitra/PS-Dataset)
 - [Working hard to know your neighbor's margins: Local descriptor learning loss](), [hardnet](https://github.com/DagnyT/hardnet)
