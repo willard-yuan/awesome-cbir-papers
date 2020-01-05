@@ -105,6 +105,9 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 ## ANN search
 
+- [RobustiQ A Robust ANN Search Method for Billion-scale Similarity Search on GPUs](http://users.monash.edu/~yli/assets/pdf/icmr19-sigconf.pdf), ICMR 2019.
+- [Zoom: Multi-View Vector Search for Optimizing Accuracy, Latency and Memory](https://www.microsoft.com/en-us/research/uploads/prod/2018/08/zoom-multi-view-tech-report.pdf)
+- [Vector and Line Quantization for Billion-scale Similarity Search on GPUs](http://users.monash.edu/~yli/assets/pdf/vlq_fgcs.pdf)
 - [GGNN: Graph-based GPU Nearest Neighbor Search](https://github.com/cgtuebingen/ggnn), arxiv 2019.
 - [Learning to Route in Similarity Graphs](https://arxiv.org/abs/1905.10987), ICML 2019.
 - [Practical and Optimal LSH for Angular Distance](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fpapers.nips.cc%2Fpaper%2F5893-practical-and-optimal-lsh-for-angular-distance.pdf)
