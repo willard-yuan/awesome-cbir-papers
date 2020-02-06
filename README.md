@@ -62,6 +62,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 ## Deep Learning Feature (Global Feature)
 
+- [SOLAR: Second-Order Loss and Attention for Image Retrieval](https://arxiv.org/abs/2001.08972v2), arxiv 2020.
 - [Deep Image Retrieval:Learning Global Representations for Image search](https://arxiv.org/abs/1604.01325)
 - [End-to-end Learning of Deep Visual Representations for Image retrieval](https://arxiv.org/abs/1610.07940), DIR更详细的论文说明
 - [What Is the Best Practice for CNNs Applied to Visual Instance Retrieval?](https://arxiv.org/abs/1611.01640), 关于layer选取的问题
