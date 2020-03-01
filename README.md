@@ -148,6 +148,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [Visual Search at Alibaba](https://dl.acm.org/citation.cfm?id=3219819.3219820)
 - [Visual Search at Pinterest](https://labs.pinterest.com/user/themes/pinlabs/assets/paper/visual_search_at_pinterest.pdf)
 - [Visual Discovery at Pinterest](https://arxiv.org/abs/1702.04680)
+- [Learning a Unified Embedding for Visual Search at Pinterest](https://arxiv.org/abs/1908.01707), KDD 2019.
 - [Visual Search at ebay]()
 - [Deep Learning based Large Scale Visual Recommendation and Search for E-Commerce](https://arxiv.org/abs/1703.02344), [project](https://github.com/flipkart-incubator/fk-visual-search)
 - [微信「扫一扫识物」 的背后技术揭秘](https://mp.weixin.qq.com/s/fiUUkT7hyJwXmAGQ1kMcqQ)
