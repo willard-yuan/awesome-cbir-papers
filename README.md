@@ -90,7 +90,12 @@ The main goal is collect classical and solid work of image retrieval in academia
 ## Deep Learning Feature (Local Feature)
 
 - [UR2KiD: Unifying Retrieval, Keypoint Detection, and Keypoint Description without Local Correspondence Supervision](https://arxiv.org/abs/2001.07252), arxiv.
+- [Beyond Cartesian Representations for Local Descriptors](https://arxiv.org/abs/1908.05547), [code](https://github.com/cvlab-epfl/log-polar-descriptors), ICCV 2019.
 - [R2D2: Reliable and Repeatable Detector and Descriptor](https://arxiv.org/abs/1906.06195), [R2D2](https://github.com/naver/r2d2), NeurIPS 2019.
+- [SOSNet: Second Order Similarity Regularization for Local Descriptor Learning](https://github.com/scape-research/SOSNet), CVPR 2019.
+- [Local Features and Visual Words Emerge in Activations](https://avrithis.net/data/pub/pdf/conf/C110.cvpr19.spatial.pdf), CVPR 2019.
+- [Explicit Spatial Encoding for Deep Local Descriptors](https://arxiv.org/abs/1904.07190), CVPR 2019.
+- [Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters](https://github.com/axelBarroso/Key.Net), ICCV 2019.
 - [Learning Discriminative Affine Regions via Discriminability](http://cn.arxiv.org/pdf/1711.06704.pdf), [affnet](https://github.com/ducha-aiki/affnet)
 - [A Large Dataset for Improving Patch Matching](http://cn.arxiv.org/pdf/1801.01466.pdf), [PS-Dataset](https://github.com/rmitra/PS-Dataset)
 - [Working hard to know your neighbor's margins: Local descriptor learning loss](), [hardnet](https://github.com/DagnyT/hardnet)
@@ -100,10 +105,6 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [SuperPoint: Self-Supervised Interest Point Detection and Description](http://cn.arxiv.org/pdf/1712.07629.pdf), Magic Leap
 - [GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints](https://arxiv.org/pdf/1807.06294.pdf), [code](https://github.com/lzx551402/geodesc), ECCV 2018.
 - [Learning local feature descriptors with triplets and shallow convolutional neural networks](https://github.com/vbalnt/tfeat), BMVC 2016.
-- [SOSNet: Second Order Similarity Regularization for Local Descriptor Learning](https://github.com/scape-research/SOSNet), CVPR 2019.
-- [Local Features and Visual Words Emerge in Activations](https://avrithis.net/data/pub/pdf/conf/C110.cvpr19.spatial.pdf), CVPR 2019.
-- [Explicit Spatial Encoding for Deep Local Descriptors](https://arxiv.org/abs/1904.07190), CVPR 2019.
-- [Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters](https://github.com/axelBarroso/Key.Net), ICCV 2019.
 
 ## ANN search
 
