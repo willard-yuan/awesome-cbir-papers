@@ -12,9 +12,10 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-- [Local Feature Based](#Local-Feature-Based)
+- [Classical Local Feature](#Classical-Local-Feature)
 - [Deep Learning Feature (Global Feature)](#Deep-Learning-Feature-(Global-Feature))
 - [Deep Learning Feature (Local Feature)](#Deep-Learning-Feature-(Local-Feature))
+- [Cross Model Retrieval (Cross Model Retrieval)](#Cross-Model-Retrieval-(Cross-Model-Retrieval))
 - [ANN search](#ANN-search)
 - [CBIR rank](#CBIR-rank)
 - [CBIR in Industry](#CBIR-in-Industry)
