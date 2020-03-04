@@ -12,7 +12,6 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-- [ARXIV](#ARXIV)
 - [Local Feature Based](#Local-Feature-Based)
 - [Deep Learning Feature (Global Feature)](#Deep-Learning-Feature-(Global-Feature))
 - [Deep Learning Feature (Local Feature)](#Deep-Learning-Feature-(Local-Feature))
@@ -30,16 +29,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [Datasets](#Datasets)
 - [Useful Package](#Useful-Package)
 
-## ARXIV
-
-- [A Benchmark on Tricks for Large-scale Image Retrieval](https://arxiv.org/pdf/1907.11854.pdf)，通用图像检索各种trick介绍。
-- [Learning with Average Precision: Training Image Retrieval with a Listwise Loss](https://arxiv.org/pdf/1906.07589v1.pdf), deep image retrieval续作。
-- [MultiGrain: a unified image embedding for classes and instances](https://arxiv.org/abs/1902.05509)，Hervé Jégou, Andrea Vedaldi, Matthijs Douze，三牛首次出现在同一paper中。将相似和实例检索统一在一个框架中。
-- [Composing Text and Image for Image Retrieval - An Empirical Odyssey](https://arxiv.org/pdf/1812.07119.pdf)
-- [Visualizing Deep Similarity Networks](https://arxiv.org/pdf/1901.00536.pdf)
-- [Combination of Multiple Global Descriptors for Image Retrieval](https://github.com/naver/cgd)
-
-## Local Feature Based
+## Classical Local Feature
 
 - [Object retrieval with large vocabularies and fast spatial matching](https://www.robots.ox.ac.uk/~vgg/publications/papers/philbin07.pdf)
 - [Visual Categorization with Bags of Keypoints](http://www.cs.princeton.edu/courses/archive/fall09/cos429/papers/csurka-eccv-04.pdf)
@@ -63,6 +53,9 @@ The main goal is collect classical and solid work of image retrieval in academia
 ## Deep Learning Feature (Global Feature)
 
 - [SOLAR: Second-Order Loss and Attention for Image Retrieval](https://arxiv.org/abs/2001.08972v2), arxiv 2020.
+- [A Benchmark on Tricks for Large-scale Image Retrieval](https://arxiv.org/pdf/1907.11854.pdf)，arxiv 2020。
+- [Learning with Average Precision: Training Image Retrieval with a Listwise Loss](https://arxiv.org/pdf/1906.07589v1.pdf), ICCV 2019。
+- [MultiGrain: a unified image embedding for classes and instances](https://arxiv.org/abs/1902.05509), arxiv 2019.
 - [Deep Image Retrieval:Learning Global Representations for Image search](https://arxiv.org/abs/1604.01325)
 - [End-to-end Learning of Deep Visual Representations for Image retrieval](https://arxiv.org/abs/1610.07940), DIR更详细的论文说明
 - [What Is the Best Practice for CNNs Applied to Visual Instance Retrieval?](https://arxiv.org/abs/1611.01640), 关于layer选取的问题
@@ -90,6 +83,8 @@ The main goal is collect classical and solid work of image retrieval in academia
 ## Deep Learning Feature (Local Feature)
 
 - [UR2KiD: Unifying Retrieval, Keypoint Detection, and Keypoint Description without Local Correspondence Supervision](https://arxiv.org/abs/2001.07252), arxiv.
+- [Visualizing Deep Similarity Networks](https://arxiv.org/pdf/1901.00536.pdf).
+- [Combination of Multiple Global Descriptors for Image Retrieval](https://github.com/naver/cgd).
 - [Beyond Cartesian Representations for Local Descriptors](https://arxiv.org/abs/1908.05547), [code](https://github.com/cvlab-epfl/log-polar-descriptors), ICCV 2019.
 - [R2D2: Reliable and Repeatable Detector and Descriptor](https://arxiv.org/abs/1906.06195), [R2D2](https://github.com/naver/r2d2), NeurIPS 2019.
 - [SOSNet: Second Order Similarity Regularization for Local Descriptor Learning](https://github.com/scape-research/SOSNet), CVPR 2019.
@@ -105,6 +100,10 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [SuperPoint: Self-Supervised Interest Point Detection and Description](http://cn.arxiv.org/pdf/1712.07629.pdf), Magic Leap
 - [GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints](https://arxiv.org/pdf/1807.06294.pdf), [code](https://github.com/lzx551402/geodesc), ECCV 2018.
 - [Learning local feature descriptors with triplets and shallow convolutional neural networks](https://github.com/vbalnt/tfeat), BMVC 2016.
+
+## Cross Model Retrieval
+
+- [Composing Text and Image for Image Retrieval - An Empirical Odyssey](https://arxiv.org/pdf/1812.07119.pdf)
 
 ## ANN search
 
