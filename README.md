@@ -152,6 +152,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [Visual Search at ebay]()
 - [Deep Learning based Large Scale Visual Recommendation and Search for E-Commerce](https://arxiv.org/abs/1703.02344), [project](https://github.com/flipkart-incubator/fk-visual-search)
 - [微信「扫一扫识物」 的背后技术揭秘](https://mp.weixin.qq.com/s/fiUUkT7hyJwXmAGQ1kMcqQ)
+- [揭秘微信「扫一扫」识物为什么这么快？](https://mp.weixin.qq.com/s/EBCcBWob_iFa51-gOVPYQA)
 
 ## CBIR Competition and Challenge
 
