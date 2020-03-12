@@ -53,6 +53,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 ## Deep Learning Feature (Global Feature)
 
+- [Unifying Deep Local and Global Features for Image Search](https://arxiv.org/abs/2001.05027), arxiv 2020.
 - [SOLAR: Second-Order Loss and Attention for Image Retrieval](https://arxiv.org/abs/2001.08972v2), arxiv 2020.
 - [A Benchmark on Tricks for Large-scale Image Retrieval](https://arxiv.org/pdf/1907.11854.pdf)，arxiv 2020。
 - [Learning with Average Precision: Training Image Retrieval with a Listwise Loss](https://arxiv.org/pdf/1906.07589v1.pdf), ICCV 2019。
