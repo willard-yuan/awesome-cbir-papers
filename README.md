@@ -32,22 +32,22 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 ## Classical Local Feature
 
-- [Object retrieval with large vocabularies and fast spatial matching](https://www.robots.ox.ac.uk/~vgg/publications/papers/philbin07.pdf)
-- [Visual Categorization with Bags of Keypoints](http://www.cs.princeton.edu/courses/archive/fall09/cos429/papers/csurka-eccv-04.pdf)
-- [ORB: an efficient alternative to SIFT or SURF](https://www.willowgarage.com/sites/default/files/orb_final.pdf)
-- [Object Recognition from Local Scale-Invariant Features](http://www.cs.ubc.ca/~lowe/papers/iccv99.pdf)
-- [Total Recall: Automatic Query Expansion with a Generative Feature Model for Object Retrieval](https://www.robots.ox.ac.uk/~vgg/publications/papers/philbin07.pdf)
-- [Three things everyone should know to improve object retrieval](https://www.robots.ox.ac.uk/~vgg/publications/2012/Arandjelovic12/arandjelovic12.pdf)
+- [Object retrieval with large vocabularies and fast spatial matching](https://www.robots.ox.ac.uk/~vgg/publications/papers/philbin07.pdf), CVPR 2007.
+- [Visual Categorization with Bags of Keypoints](http://www.cs.princeton.edu/courses/archive/fall09/cos429/papers/csurka-eccv-04.pdf), ECCV 2004.
+- [ORB: an efficient alternative to SIFT or SURF](https://www.willowgarage.com/sites/default/files/orb_final.pdf), ICCV 2011.
+- [Object Recognition from Local Scale-Invariant Features](http://www.cs.ubc.ca/~lowe/papers/iccv99.pdf), ICCV 1999.
+- [Total Recall: Automatic Query Expansion with a Generative Feature Model for Object Retrieval](https://www.robots.ox.ac.uk/~vgg/publications/papers/philbin07.pdf), ICCV 2007.
+- [Three things everyone should know to improve object retrieval](https://www.robots.ox.ac.uk/~vgg/publications/2012/Arandjelovic12/arandjelovic12.pdf), CVPR 2012.
 - [On-the-fly learning for visual search of large-scale image and video datasets](https://www.robots.ox.ac.uk/~vgg/publications/2015/Chatfield15/chatfield15.pdf)
-- [All about VLAD]()
-- [Aggregating localdescriptors into a compact image representatio]()
+- [All about VLAD](), CVPR 2013.
+- [Aggregating localdescriptors into a compact image representation](), CVPR 2010.
 - [More About VLAD: A Leap from Euclidean to Riemannian Manifolds]()
 - [Hamming embedding and weak geometric consistency for large scale image search]()
 - [Revisiting the VLAD image representation](https://hal.inria.fr/hal-00840653v1/document), [project](https://github.com/jorjasso/VLAD/blob/master/VLADlib/VLAD.py)
-- [Improving the Fisher Kernel for Large-Scale Image Classification](https://www.robots.ox.ac.uk/~vgg/rg/papers/peronnin_etal_ECCV10.pdf)
+- [Improving the Fisher Kernel for Large-Scale Image Classification](https://www.robots.ox.ac.uk/~vgg/rg/papers/peronnin_etal_ECCV10.pdf), ECCV 2010.
 - [Image Classification with the Fisher Vector: Theory and Practice](https://hal.inria.fr/hal-00830491/document)
 - [Democratic Diffusion Aggregation for ImageRetrieval]()
-- [A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]()
+- [A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval](), ACCV 2016.
 - [Triangulation embedding and democratic aggregation for image search]()
 - [Efficient Large-scale Image Search With a Vocabulary Tree](http://www.ipol.im/pub/art/2018/199/), [code](https://github.com/fragofer/voctree)
 
