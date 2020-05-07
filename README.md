@@ -193,6 +193,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 ## Tutorials
 
+- [PyRetri](https://github.com/PyRetri/PyRetri), Open source deep learning based image retrieval toolbox based on PyTorch.
 - [How to Apply Distance Metric Learning to Street-to-Shop Problem](https://medium.com/mlreview/how-to-apply-distance-metric-learning-for-street-to-shop-problem-d21247723d2a)
 - [Recent Image Search Techniques](http://cvpr2016.thecvf.com/program/tutorials)
 - [Compact Features for Visual Search](http://cvpr2016.thecvf.com/program/tutorials)
