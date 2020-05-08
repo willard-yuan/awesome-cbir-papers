@@ -138,6 +138,9 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [spreading vectors for similarity search](https://arxiv.org/abs/1806.03198), ICLR 2019.
 - [SPTAG](urlhttps://github.com/microsoft/SPTAG): A library for fast approximate nearest neighbor search. Microsoft.
 
+## CBIR Attack 
+- [Open Set Adversarial Examples](https://arxiv.org/abs/1809.02681)
+
 ## CBIR rank
 
 - [Fast Spectral Ranking for Similarity Search](http://cn.arxiv.org/pdf/1703.06935.pdf), [code](https://github.com/ducha-aiki/manifold-diffusion), CVPR 2018
