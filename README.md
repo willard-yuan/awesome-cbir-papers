@@ -84,6 +84,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 ## Deep Learning Feature (Local Feature)
 
+- [D2D: Keypoint Extraction with Describe to Detect Approach](https://arxiv.org/pdf/2005.13605.pdf), arxiv 2020.
 - [UR2KiD: Unifying Retrieval, Keypoint Detection, and Keypoint Description without Local Correspondence Supervision](https://arxiv.org/abs/2001.07252), arxiv.
 - [Visualizing Deep Similarity Networks](https://arxiv.org/pdf/1901.00536.pdf).
 - [Combination of Multiple Global Descriptors for Image Retrieval](https://github.com/naver/cgd).
