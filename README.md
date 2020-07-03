@@ -84,6 +84,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 ## Deep Learning Feature (Local Feature)
 
+- [DISK: Learning local features with policy gradient](https://arxiv.org/pdf/2006.13566.pdf), arxiv 2006.13566.
 - [D2D: Keypoint Extraction with Describe to Detect Approach](https://arxiv.org/pdf/2005.13605.pdf), arxiv 2020.
 - [UR2KiD: Unifying Retrieval, Keypoint Detection, and Keypoint Description without Local Correspondence Supervision](https://arxiv.org/abs/2001.07252), arxiv.
 - [Visualizing Deep Similarity Networks](https://arxiv.org/pdf/1901.00536.pdf).
@@ -176,6 +177,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 ## Instance Matching
 
+- [AdaLAM: Revisiting Handcrafted Outlier Detection](https://arxiv.org/pdf/2006.04250.pdf), arxiv 2006.04250.
 - [Graph-Cut RANSAC](https://arxiv.org/abs/1706.00984), [code](https://github.com/danini/graph-cut-ransac)
 - [Image Matching Benchmark](https://arxiv.org/pdf/1709.03917.pdf)
 - [GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence](https://github.com/JiawangBian/GMS-Feature-Matcher)
