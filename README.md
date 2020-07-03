@@ -145,7 +145,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 ## CBIR rank
 
-- [Fast Spectral Ranking for Similarity Search](http://cn.arxiv.org/pdf/1703.06935.pdf), [code](https://github.com/ducha-aiki/manifold-diffusion), CVPR 2018
+- [Fast Spectral Ranking for Similarity Search](http://arxiv.org/pdf/1703.06935.pdf), [code](https://github.com/ducha-aiki/manifold-diffusion), CVPR 2018
 
 ## CBIR in Industry
 
