@@ -193,6 +193,10 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 - [End-to-end weakly-supervised semantic alignment](https://github.com/ignacio-rocco/weakalign)
 
+## Template Matching
+
+- [QATM: Quality-Aware Template Matching For Deep Learning](https://arxiv.org/pdf/1903.07254.pdf), CVPR 2019.
+
 ## Image Identification
 
 - [Image Identification Using SIFT Algorithm: Performance Analysis against Different Image Deformations](https://arxiv.org/pdf/1710.02728.pdf)
