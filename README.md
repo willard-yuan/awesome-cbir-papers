@@ -53,6 +53,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 ## Deep Learning Feature (Global Feature)
 
+- [SOLAR: Second-Order Loss and Attention for Image Retrieval](https://arxiv.org/pdf/2001.08972.pdf), ECCV 2020.
 - [Unifying Deep Local and Global Features for Image Search](https://arxiv.org/abs/2001.05027), arxiv 2020.
 - [SOLAR: Second-Order Loss and Attention for Image Retrieval](https://arxiv.org/abs/2001.08972v2), arxiv 2020.
 - [A Benchmark on Tricks for Large-scale Image Retrieval](https://arxiv.org/pdf/1907.11854.pdf)，arxiv 2020。
@@ -111,6 +112,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 ## ANN search
 
+- [Improving Approximate Nearest Neighbor Search through Learned Adaptive Early Termination](https://www.pdl.cmu.edu/PDL-FTP/BigLearning/mod0246-liA.pdf), SIGMOD 2020.
 - [RobustiQ A Robust ANN Search Method for Billion-scale Similarity Search on GPUs](http://users.monash.edu/~yli/assets/pdf/icmr19-sigconf.pdf), ICMR 2019.
 - [Zoom: Multi-View Vector Search for Optimizing Accuracy, Latency and Memory](https://www.microsoft.com/en-us/research/uploads/prod/2018/08/zoom-multi-view-tech-report.pdf)
 - [Vector and Line Quantization for Billion-scale Similarity Search on GPUs](http://users.monash.edu/~yli/assets/pdf/vlq_fgcs.pdf)
