@@ -12,23 +12,27 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-- [Classical Local Feature](#Classical-Local-Feature)
-- [Deep Learning Feature (Global Feature)](#Deep-Learning-Feature-(Global-Feature))
-- [Deep Learning Feature (Local Feature)](#Deep-Learning-Feature-(Local-Feature))
-- [Cross Model Retrieval (Cross Model Retrieval)](#Cross-Model-Retrieval-(Cross-Model-Retrieval))
-- [ANN search](#ANN-search)
-- [CBIR rank](#CBIR-rank)
-- [CBIR in Industry](#CBIR-in-Industry)
-- [CBIR Competition and Challenge](#CBIR-Competition-and-Challenge)
-- [CBIR for Duplicate(copy) detection](#CBIR-for-Duplicate(copy)-detection)
-- [Feature Fusion](#Feature-Fusion)
-- [Instance Matching](#Instance-Matching)
-- [Semantic Matching](#Semantic-Matching)
-- [Image Identification](#Image-Identification)
-- [Tutorials](#Tutorials)
-- [Demo and Demo Online](#Demo-and-Demo-Online)
-- [Datasets](#Datasets)
-- [Useful Package](#Useful-Package)
+- [Classical Local Feature](#classical-local-feature)
+- [Deep Learning Feature (Global Feature)](#deep-learning-feature-global-feature)
+- [Deep Learning Feature (Local Feature)](#deep-learning-feature-local-feature)
+- [Deep Learning Feature (Object discovery based)](#deep-learning-feature-object-discovery-based)
+- [Cross Modal Retrieval](#cross-modal-retrieval)
+- [ANN search](#ann-search)
+- [CBIR Attack](#cbir-attack)
+- [CBIR rank](#cbir-rank)
+- [CBIR in Industry](#cbir-in-industry)
+- [CBIR Competition and Challenge](#cbir-competition-and-challenge)
+- [CBIR for Duplicate(copy) detection](#cbir-for-duplicatecopy-detection)
+- [Feature Fusion](#feature-fusion)
+- [Instance Matching](#instance-matching)
+- [Semantic Matching](#semantic-matching)
+- [Template Matching](#template-matching)
+- [Image Identification](#image-identification)
+- [Tutorials](#tutorials)
+- [Slide](#slide)
+- [Demo and Demo Online](#demo-and-demo-online)
+- [Datasets](#datasets)
+- [Useful Package](#useful-package)
 
 ## Classical Local Feature
 
@@ -64,7 +68,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [End-to-end Learning of Deep Visual Representations for Image retrieval](https://arxiv.org/abs/1610.07940), DIR更详细的论文说明
 - [What Is the Best Practice for CNNs Applied to Visual Instance Retrieval?](https://arxiv.org/abs/1611.01640), 关于layer选取的问题
 - [Bags of Local Convolutional Features for Scalable Instance Search](https://arxiv.org/abs/1604.01325)
-- [Faster R-CNN Features for Instance Search](https://github.com/imatge-upc/retrieval-2016-deepvision)
+- [Faster R-CNN Features for Instance Search](https://github.com/imatge-upc/retrieval-2016-deepvision), CVPR workshop 2016
 - [Cross-dimensional Weighting for Aggregated Deep Convolutional Features](https://arxiv.org/abs/1512.04065), [project](https://github.com/yahoo/crow)
 - [Class-Weighted Convolutional Features for Image Retrieval](https://github.com/imatge-upc/retrieval-2017-cam)
 - [Multi-Scale Orderless Pooling of Deep Convolutional Activation Features](), VLAD coding
@@ -80,7 +84,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [Fine-tuning CNN Image Retrieval with No Human Annotation](https://arxiv.org/abs/1711.02512)
 - [An accurate retrieval through R-MAC+ descriptors for landmark recognition](https://arxiv.org/pdf/1806.08565.pdf)
 - [Regional Attention Based Deep Feature for Image Retrieval](https://sglab.kaist.ac.kr/RegionalAttention/), [code](https://github.com/jaeyoon1603/Retrieval-RegionalAttention), BMVC 2018.
-- [Detect-to-Retrieve: Efficient Regional Aggregation for Image Search](https://arxiv.org/pdf/1812.01584.pdf), arxiv.
+- [Detect-to-Retrieve: Efficient Regional Aggregation for Image Search](https://arxiv.org/pdf/1812.01584.pdf), CVPR 2019.
 - [Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking](http://cmp.felk.cvut.cz/~toliageo/p/RadenovicIscenToliasAvrithisChum_CVPR2018_Revisiting%20Oxford%20and%20Paris:%20Large-Scale%20Image%20Retrieval%20Benchmarking.pdf), [project](http://cmp.felk.cvut.cz/revisitop/), CVPR 2018.
 - [Guided Similarity Separation for Image Retrieval](https://github.com/layer6ai-labs/GSS), NeurIPS 2019.
 
@@ -106,8 +110,16 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [SuperPoint: Self-Supervised Interest Point Detection and Description](http://cn.arxiv.org/pdf/1712.07629.pdf), Magic Leap
 - [GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints](https://arxiv.org/pdf/1807.06294.pdf), [code](https://github.com/lzx551402/geodesc), ECCV 2018.
 - [Learning local feature descriptors with triplets and shallow convolutional neural networks](https://github.com/vbalnt/tfeat), BMVC 2016.
+  
 
-## Cross Model Retrieval
+## Deep Learning Feature (Object discovery based)
+- [Faster R-CNN Features for Instance Search](https://github.com/imatge-upc/retrieval-2016-deepvision), CVPR workshop 2016
+- [Instance Search via Instance Level Segmentation and Feature Representation](https://arxiv.org/abs/1806.03576), arXiv 2018
+- [Unsupervised object discovery for instance recognition](https://doi.org/10.1109/WACV.2018.00194), WACV 2018
+- [Instance search based on weakly supervised feature learning](https://doi.org/10.1016/j.neucom.2019.11.029), Neurocomputing 2019
+- [Deeply Activated Salient Region for Instance Search](https://arxiv.org/abs/2002.00185), arXiv 2020
+
+## Cross Modal Retrieval
 
 - [Composing Text and Image for Image Retrieval - An Empirical Odyssey](https://arxiv.org/pdf/1812.07119.pdf)
 
