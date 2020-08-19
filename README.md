@@ -15,7 +15,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [Classical Local Feature](#classical-local-feature)
 - [Deep Learning Feature (Global Feature)](#deep-learning-feature-global-feature)
 - [Deep Learning Feature (Local Feature)](#deep-learning-feature-local-feature)
-- [Deep Learning Feature (Object discovery based)](#deep-learning-feature-object-discovery-based)
+- [Deep Learning Feature (Instance Search)](#deep-learning-feature-instance-search)
 - [Cross Modal Retrieval](#cross-modal-retrieval)
 - [ANN search](#ann-search)
 - [CBIR Attack](#cbir-attack)
@@ -68,7 +68,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [End-to-end Learning of Deep Visual Representations for Image retrieval](https://arxiv.org/abs/1610.07940), DIR更详细的论文说明
 - [What Is the Best Practice for CNNs Applied to Visual Instance Retrieval?](https://arxiv.org/abs/1611.01640), 关于layer选取的问题
 - [Bags of Local Convolutional Features for Scalable Instance Search](https://arxiv.org/abs/1604.01325)
-- [Faster R-CNN Features for Instance Search](https://github.com/imatge-upc/retrieval-2016-deepvision), CVPR workshop 2016
+- [Faster R-CNN Features for Instance Search](https://github.com/imatge-upc/retrieval-2016-deepvision), CVPR workshop 2016.
 - [Cross-dimensional Weighting for Aggregated Deep Convolutional Features](https://arxiv.org/abs/1512.04065), [project](https://github.com/yahoo/crow)
 - [Class-Weighted Convolutional Features for Image Retrieval](https://github.com/imatge-upc/retrieval-2017-cam)
 - [Multi-Scale Orderless Pooling of Deep Convolutional Activation Features](), VLAD coding
@@ -78,10 +78,10 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [Learning to Match Aerial Images with Deep Attentive Architectures](https://vision.cornell.edu/se3/wp-content/uploads/2016/04/1204.pdf).
 - [Siamese Network of Deep Fisher-Vector Descriptors for Image Retrieval](https://arxiv.org/pdf/1702.00338v1.pdf)
 - [Combining Fisher Vector and Convolutional Neural Networks for Image Retrieval](http://ceur-ws.org/Vol-1653/paper_19.pdf), fv和cnn特征融合提升
-- [Selective Deep Convolutional Features for Image Retrieval](https://arxiv.org/pdf/1707.00809v1.pdf)
+- [Selective Deep Convolutional Features for Image Retrieval](https://arxiv.org/pdf/1707.00809v1.pdf), ACM MM 2017.
 - [Class-Weighted Convolutional Features for Image Retrieval](https://github.com/imatge-upc/retrieval-2017-cam)
 - [Towards Good Practices for Image Retrieval Based on CNN Features]()
-- [Fine-tuning CNN Image Retrieval with No Human Annotation](https://arxiv.org/abs/1711.02512)
+- [Fine-tuning CNN Image Retrieval with No Human Annotation](https://arxiv.org/abs/1711.02512), PAMI 2018.
 - [An accurate retrieval through R-MAC+ descriptors for landmark recognition](https://arxiv.org/pdf/1806.08565.pdf)
 - [Regional Attention Based Deep Feature for Image Retrieval](https://sglab.kaist.ac.kr/RegionalAttention/), [code](https://github.com/jaeyoon1603/Retrieval-RegionalAttention), BMVC 2018.
 - [Detect-to-Retrieve: Efficient Regional Aggregation for Image Search](https://arxiv.org/pdf/1812.01584.pdf), CVPR 2019.
@@ -93,7 +93,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [DISK: Learning local features with policy gradient](https://arxiv.org/pdf/2006.13566.pdf), arxiv 2006.13566.
 - [D2D: Keypoint Extraction with Describe to Detect Approach](https://arxiv.org/pdf/2005.13605.pdf), arxiv 2020.
 - [UR2KiD: Unifying Retrieval, Keypoint Detection, and Keypoint Description without Local Correspondence Supervision](https://arxiv.org/abs/2001.07252), arxiv.
-- [Visualizing Deep Similarity Networks](https://arxiv.org/pdf/1901.00536.pdf).
+- [Visualizing Deep Similarity Networks](https://arxiv.org/pdf/1901.00536.pdf), WACV 2019.
 - [Combination of Multiple Global Descriptors for Image Retrieval](https://github.com/naver/cgd).
 - [Beyond Cartesian Representations for Local Descriptors](https://arxiv.org/abs/1908.05547), [code](https://github.com/cvlab-epfl/log-polar-descriptors), ICCV 2019.
 - [R2D2: Reliable and Repeatable Detector and Descriptor](https://arxiv.org/abs/1906.06195), [R2D2](https://github.com/naver/r2d2), NeurIPS 2019.
@@ -112,7 +112,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [Learning local feature descriptors with triplets and shallow convolutional neural networks](https://github.com/vbalnt/tfeat), BMVC 2016.
   
 
-## Deep Learning Feature (Object discovery based)
+## Deep Learning Feature (Instance Search)
 - [Faster R-CNN Features for Instance Search](https://github.com/imatge-upc/retrieval-2016-deepvision), CVPR workshop 2016
 - [Instance Search via Instance Level Segmentation and Feature Representation](https://arxiv.org/abs/1806.03576), arXiv 2018
 - [Unsupervised object discovery for instance recognition](https://doi.org/10.1109/WACV.2018.00194), WACV 2018
