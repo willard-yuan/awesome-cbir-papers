@@ -242,6 +242,11 @@ The main goal is collect classical and solid work of image retrieval in academia
 ## Datasets
 
 - [DeepFashion2 Dataset](https://github.com/switchablenorms/DeepFashion2), DeepFashion2 is a comprehensive fashion dataset.
+- [Holidays](https://rd.springer.com/chapter/10.1007/978-3-540-88682-2_24), Holidays consists images from personal holiday albums of various scene types.
+- [Oxford](https://ieeexplore.ieee.org/document/4270197), Oxford consists of 11 different Oxford landmarks.
+- [Paris](https://ieeexplore.ieee.org/abstract/document/4587635/), Paris consists of images crawled from 11 queries on specific Paris architecture.
+- [ROxford and RParis](https://openaccess.thecvf.com/content_cvpr_2018/html/Radenovic_Revisiting_Oxford_and_CVPR_2018_paper.html), ROxford and RParis are revisited versions of the original Oxford and Paris with annotation corrections, enlarged sizes and more difficult samples.
+- [INSTRE](https://dl.acm.org/doi/abs/10.1145/2700292), INSTRE is an instance-level object retrieval dataset.
  
 ## Useful Package 
 
