@@ -90,6 +90,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 ## Deep Learning Feature (Local Feature)
 
+- [DISK: Learning local features with policy gradient](https://arxiv.org/pdf/2006.13566.pdf), NeurIPS 2020, [code](https://github.com/cvlab-epfl/disk).
 - [Learning and aggregating deep local descriptorsfor instance-level recognition](https://paperswithcode.com/paper/learning-and-aggregating-deep-local/review/), ECCV 2020, [code](https://github.com/jenicek/asmk).
 - [DISK: Learning local features with policy gradient](https://arxiv.org/pdf/2006.13566.pdf), arxiv 2006.13566.
 - [D2D: Keypoint Extraction with Describe to Detect Approach](https://arxiv.org/pdf/2005.13605.pdf), arxiv 2020.
