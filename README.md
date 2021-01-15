@@ -57,7 +57,8 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 ## Deep Learning Feature (Global Feature)
 
-- [Smooth-AP: Smoothing the Path Towards Large-Scale Image Retrieval](https://arxiv.org/pdf/2007.12163.pdf), ECCV 2020
+- [Online Invariance Selection for Local Feature Descriptors](https://arxiv.org/abs/2007.08988), ECCV 2020, [code](https://github.com/rpautrat/LISRD).
+- [Smooth-AP: Smoothing the Path Towards Large-Scale Image Retrieval](https://arxiv.org/pdf/2007.12163.pdf), ECCV 2020.
 - [SOLAR: Second-Order Loss and Attention for Image Retrieval](https://arxiv.org/pdf/2001.08972.pdf), ECCV 2020.
 - [Unifying Deep Local and Global Features for Image Search](https://arxiv.org/abs/2001.05027), arxiv 2020.
 - [SOLAR: Second-Order Loss and Attention for Image Retrieval](https://arxiv.org/abs/2001.08972v2), arxiv 2020.
