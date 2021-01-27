@@ -124,6 +124,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 ## Cross Modal Retrieval
 
 - [Composing Text and Image for Image Retrieval - An Empirical Odyssey](https://arxiv.org/pdf/1812.07119.pdf)
+- [ual-Path Convolutional Image-Text Embeddings with Instance Loss](https://arxiv.org/abs/1711.05535), ACM TOMM 2020,[[Code](https://github.com/layumi/Image-Text-Embedding)]
 
 ## ANN search
 
@@ -249,6 +250,12 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [Paris](https://ieeexplore.ieee.org/abstract/document/4587635/), Paris consists of images crawled from 11 queries on specific Paris architecture.
 - [ROxford and RParis](https://openaccess.thecvf.com/content_cvpr_2018/html/Radenovic_Revisiting_Oxford_and_CVPR_2018_paper.html), ROxford and RParis are revisited versions of the original Oxford and Paris with annotation corrections, enlarged sizes and more difficult samples.
 - [INSTRE](https://dl.acm.org/doi/abs/10.1145/2700292), INSTRE is an instance-level object retrieval dataset.
+- [University-1652](https://dl.acm.org/doi/abs/10.1145/3394171.3413896), University-1652 provides satellite-view, drone-view and ground-view images of 1,652 buildings among 72 universities. 无人机 卫星 地面 图像互搜。 [[Paper]](https://arxiv.org/abs/2002.12186) 
+[[Explore Drone-view Data]](https://github.com/layumi/University1652-Baseline/blob/master/docs/index_files/sample_drone.jpg?raw=true)
+[[Explore Satellite-view Data]](https://github.com/layumi/University1652-Baseline/blob/master/docs/index_files/sample_satellite.jpg?raw=true)
+[[Explore Street-view Data]](https://github.com/layumi/University1652-Baseline/blob/master/docs/index_files/sample_street.jpg?raw=true)
+[[Video Sample]](https://www.youtube.com/embed/dzxXPp8tVn4?vq=hd1080)
+[[Code]](https://github.com/layumi/University1652-Baseline)
  
 ## Useful Package 
 
