@@ -165,7 +165,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 ## CBIR in Industry
 
-- [Videntifier](http://videntifier.com/) is a visual search engine based on a patented large-scale local feature database, [demo](http://flickrdemo.videntifier.com/), based on SIFT feature and NV-tree.
+- [Videntifier](http://videntifier.com/) is a visual search engine based on a patented large-scale local feature database, [demo](http://flickrdemo.videntifier.com/), based on SIFT feature and NV-tree. ([Chinese blog post](https://yongyuan.name/blog/videntifier-and-nv-tree.html))
 - [Web-Scale Responsive Visual Search at Bing](https://arxiv.org/abs/1802.04914)
 - [Visual Search at Alibaba](https://dl.acm.org/citation.cfm?id=3219819.3219820)
 - [Visual Search at Pinterest](https://labs.pinterest.com/user/themes/pinlabs/assets/paper/visual_search_at_pinterest.pdf)
