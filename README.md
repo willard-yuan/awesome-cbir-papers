@@ -91,6 +91,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 
 ## Deep Learning Feature (Local Feature)
 
+- [Learning and aggregating deep local descriptors for instance-level recognition](https://arxiv.org/abs/2007.13172), ECCV 2020, [code](https://github.com/gtolias/how).
 - [DISK: Learning local features with policy gradient](https://arxiv.org/pdf/2006.13566.pdf), NeurIPS 2020, [code](https://github.com/cvlab-epfl/disk).
 - [Learning and aggregating deep local descriptorsfor instance-level recognition](https://paperswithcode.com/paper/learning-and-aggregating-deep-local/review/), ECCV 2020, [code](https://github.com/jenicek/asmk).
 - [D2D: Keypoint Extraction with Describe to Detect Approach](https://arxiv.org/pdf/2005.13605.pdf), arxiv 2020.
@@ -121,10 +122,6 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [Instance search based on weakly supervised feature learning](https://doi.org/10.1016/j.neucom.2019.11.029), Neurocomputing 2019
 - [Deeply Activated Salient Region for Instance Search](https://arxiv.org/abs/2002.00185), arXiv 2020
 
-## Cross Modal Retrieval
-
-- [Composing Text and Image for Image Retrieval - An Empirical Odyssey](https://arxiv.org/pdf/1812.07119.pdf)
-
 ## ANN search
 
 - [Accelerating Large-Scale Inference with Anisotropic Vector Quantization](https://arxiv.org/pdf/1908.10396.pdf), [blog](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html), [code](https://github.com/google-research/google-research/tree/master/scann), ICML 2020.
@@ -132,7 +129,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [RobustiQ A Robust ANN Search Method for Billion-scale Similarity Search on GPUs](http://users.monash.edu/~yli/assets/pdf/icmr19-sigconf.pdf), ICMR 2019.
 - [Zoom: Multi-View Vector Search for Optimizing Accuracy, Latency and Memory](https://www.microsoft.com/en-us/research/uploads/prod/2018/08/zoom-multi-view-tech-report.pdf)
 - [Vector and Line Quantization for Billion-scale Similarity Search on GPUs](http://users.monash.edu/~yli/assets/pdf/vlq_fgcs.pdf)
-- [GGNN: Graph-based GPU Nearest Neighbor Search](https://github.com/cgtuebingen/ggnn), arxiv 2019.
+- [GGNN: Graph-based GPU Nearest Neighbor Search](https://github.com/cgtuebingen/ggnn), arxiv 2019, [code](https://github.com/cgtuebingen/ggnn).
 - [Learning to Route in Similarity Graphs](https://arxiv.org/abs/1905.10987), ICML 2019.
 - [Practical and Optimal LSH for Angular Distance](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fpapers.nips.cc%2Fpaper%2F5893-practical-and-optimal-lsh-for-angular-distance.pdf)
 - [pq-fast-scan](https://github.com/technicolor-research/pq-fast-scan)
@@ -158,7 +155,8 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [spreading vectors for similarity search](https://arxiv.org/abs/1806.03198), ICLR 2019.
 - [SPTAG](urlhttps://github.com/microsoft/SPTAG): A library for fast approximate nearest neighbor search. Microsoft.
 
-## CBIR Attack 
+## CBIR Attack
+
 - [Open Set Adversarial Examples](https://arxiv.org/abs/1809.02681)
 
 ## CBIR rank
