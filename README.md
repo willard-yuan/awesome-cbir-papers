@@ -16,7 +16,6 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [Deep Learning Feature (Global Feature)](#deep-learning-feature-global-feature)
 - [Deep Learning Feature (Local Feature)](#deep-learning-feature-local-feature)
 - [Deep Learning Feature (Instance Search)](#deep-learning-feature-instance-search)
-- [Cross Modal Retrieval](#cross-modal-retrieval)
 - [ANN search](#ann-search)
 - [CBIR Attack](#cbir-attack)
 - [CBIR rank](#cbir-rank)
@@ -44,16 +43,16 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [Three things everyone should know to improve object retrieval](https://www.robots.ox.ac.uk/~vgg/publications/2012/Arandjelovic12/arandjelovic12.pdf), CVPR 2012.
 - [On-the-fly learning for visual search of large-scale image and video datasets](https://www.robots.ox.ac.uk/~vgg/publications/2015/Chatfield15/chatfield15.pdf)
 - [All about VLAD](), CVPR 2013.
-- [Aggregating localdescriptors into a compact image representation](), CVPR 2010.
-- [More About VLAD: A Leap from Euclidean to Riemannian Manifolds]()
-- [Hamming embedding and weak geometric consistency for large scale image search]()
+- [Aggregating localdescriptors into a compact image representation](https://lear.inrialpes.fr/pubs/2010/JDSP10/jegou_compactimagerepresentation.pdf), CVPR 2010.
+- [More About VLAD: A Leap from Euclidean to Riemannian Manifolds](https://paperswithcode.com/paper/more-about-vlad-a-leap-from-euclidean-to), CVPR 2015.
+- [Hamming embedding and weak geometric consistency for large scale image search](https://lear.inrialpes.fr/pubs/2008/JDS08/jegou_hewgc08.pdf), CVPR 2008.
 - [Revisiting the VLAD image representation](https://hal.inria.fr/hal-00840653v1/document), [project](https://github.com/jorjasso/VLAD/blob/master/VLADlib/VLAD.py)
 - [Improving the Fisher Kernel for Large-Scale Image Classification](https://www.robots.ox.ac.uk/~vgg/rg/papers/peronnin_etal_ECCV10.pdf), ECCV 2010.
 - [Image Classification with the Fisher Vector: Theory and Practice](https://hal.inria.fr/hal-00830491/document)
 - [Democratic Diffusion Aggregation for ImageRetrieval]()
 - [A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/accv_2016_schoenberger.pdf), ACCV 2016.
 - [Triangulation embedding and democratic aggregation for image search](https://www.robots.ox.ac.uk/~vgg/publications/2014/Jegou14/jegou14.pdf), CVPR 2014.
-- [Efficient Large-scale Image Search With a Vocabulary Tree](http://www.ipol.im/pub/art/2018/199/), [code](https://github.com/fragofer/voctree).
+- [Efficient Large-scale Image Search With a Vocabulary Tree](http://www.ipol.im/pub/art/2018/199/), IPOL 2015, [code](https://github.com/fragofer/voctree).
 
 ## Deep Learning Feature (Global Feature)
 
@@ -174,7 +173,7 @@ The main goal is collect classical and solid work of image retrieval in academia
 - [Visual Search at ebay]().
 - [Deep Learning based Large Scale Visual Recommendation and Search for E-Commerce](https://arxiv.org/abs/1703.02344), [project](https://github.com/flipkart-incubator/fk-visual-search).
 - [微信「扫一扫识物」 的背后技术揭秘](https://mp.weixin.qq.com/s/fiUUkT7hyJwXmAGQ1kMcqQ).
-- [揭秘微信「扫一扫」识物为什么这么快？](https://mp.weixin.qq.com/s/EBCcBWob_iFa51-gOVPYQA).
+- [揭秘微信「扫一扫」识物为什么这么快？](https://mp.weixin.qq.com/s/EBCcBWob_iFa51-gOVPYQA)
 
 ## CBIR Competition and Challenge
 
