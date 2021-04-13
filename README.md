@@ -8,7 +8,7 @@
 
 # Awesome image retrieval papers
 
-The main goal is collect classical and solid work of image retrieval in academia and industry.
+The main goal is to collect classical and solid works of image retrieval in academia and industry.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
