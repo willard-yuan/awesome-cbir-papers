@@ -89,6 +89,7 @@ The main goal is to collect classical and solid works of image retrieval in acad
 
 ## Deep Learning Feature (Local Feature)
 
+- [COTR: Correspondence Transformer for Matching Across Images](https://github.com/ubc-vision/COTR), arxiv 2021.
 - [Online Invariance Selection for Local Feature Descriptors](https://arxiv.org/abs/2007.08988), ECCV 2020, [code](https://github.com/rpautrat/LISRD).
 - [Learning and aggregating deep local descriptors for instance-level recognition](https://arxiv.org/abs/2007.13172), ECCV 2020, [code](https://github.com/gtolias/how).
 - [DISK: Learning local features with policy gradient](https://arxiv.org/pdf/2006.13566.pdf), NeurIPS 2020, [code](https://github.com/cvlab-epfl/disk).
