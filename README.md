@@ -89,6 +89,7 @@ The main goal is to collect classical and solid works of image retrieval in acad
 
 ## Deep Learning Feature (Local Feature)
 
+- [DFM: A Performance Baseline for Deep Feature Matching](https://arxiv.org/abs/2106.07791), CVPRW 2021, [code](https://github.com/ufukefe/DFM).
 - [COTR: Correspondence Transformer for Matching Across Images](https://github.com/ubc-vision/COTR), arxiv 2021.
 - [Online Invariance Selection for Local Feature Descriptors](https://arxiv.org/abs/2007.08988), ECCV 2020, [code](https://github.com/rpautrat/LISRD).
 - [Learning and aggregating deep local descriptors for instance-level recognition](https://arxiv.org/abs/2007.13172), ECCV 2020, [code](https://github.com/gtolias/how).
@@ -179,6 +180,7 @@ The main goal is to collect classical and solid works of image retrieval in acad
 
 ## CBIR Competition and Challenge
 
+- [The 2021 Image Similarity Dataset and Challenge](https://arxiv.org/pdf/2106.09672.pdf), 2021, [code](https://arxiv.org/pdf/2106.09672.pdf).
 - [Google Landmark Retrieval Challenge](https://www.kaggle.com/c/landmark-retrieval-challenge), 2018.
 - [Alibaba Large-scale Image Search Challenge](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231510&_lang=en_US), 2015.
 - [Pkbigdata image retrieval](http://www.pkbigdata.com/common/cmpt/%E5%9B%BE%E5%83%8F%E6%90%9C%E7%B4%A2%E7%AB%9E%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html), 2015.
