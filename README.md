@@ -89,6 +89,7 @@ The main goal is to collect classical and solid works of image retrieval in acad
 
 ## Deep Learning Feature (Local Feature)
 
+- [LoFTR: Detector-Free Local Feature Matching with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_LoFTR_Detector-Free_Local_Feature_Matching_With_Transformers_CVPR_2021_paper.pdf), CVPR 2021, [code](https://github.com/zju3dv/LoFTR).
 - [DFM: A Performance Baseline for Deep Feature Matching](https://arxiv.org/abs/2106.07791), CVPRW 2021, [code](https://github.com/ufukefe/DFM).
 - [COTR: Correspondence Transformer for Matching Across Images](https://github.com/ubc-vision/COTR), arxiv 2021.
 - [Online Invariance Selection for Local Feature Descriptors](https://arxiv.org/abs/2007.08988), ECCV 2020, [code](https://github.com/rpautrat/LISRD).
