@@ -116,7 +116,6 @@ The main goal is to collect classical and solid works of image retrieval in acad
 - [GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints](https://arxiv.org/pdf/1807.06294.pdf), [code](https://github.com/lzx551402/geodesc), ECCV 2018.
 - [Learning local feature descriptors with triplets and shallow convolutional neural networks](https://github.com/vbalnt/tfeat), BMVC 2016.
   
-
 ## Deep Learning Feature (Instance Search)
 
 - [Deeply Activated Salient Region for Instance Search](https://arxiv.org/abs/2002.00185), arXiv 2020.
@@ -197,6 +196,7 @@ The main goal is to collect classical and solid works of image retrieval in acad
 
 ## Instance Matching
 
+- [Neural- Guided RANSAC: Learning Where to Sample Model Hypotheses](https://openaccess.thecvf.com/content_ICCV_2019/papers/Brachmann_Neural-Guided_RANSAC_Learning_Where_to_Sample_Model_Hypotheses_ICCV_2019_paper.pdf), ICCV 2019, [code](https://github.com/vislearn/ngransac).
 - [AdaLAM: Revisiting Handcrafted Outlier Detection](https://arxiv.org/pdf/2006.04250.pdf), arxiv 2006.
 - [Graph-Cut RANSAC](https://arxiv.org/abs/1706.00984), [code](https://github.com/danini/graph-cut-ransac)
 - [Image Matching Benchmark](https://arxiv.org/pdf/1709.03917.pdf)
