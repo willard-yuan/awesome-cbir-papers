@@ -42,7 +42,6 @@ The main goal is to collect classical and solid works of image retrieval in acad
 - [Total Recall: Automatic Query Expansion with a Generative Feature Model for Object Retrieval](https://www.robots.ox.ac.uk/~vgg/publications/papers/philbin07.pdf), ICCV 2007.
 - [Three things everyone should know to improve object retrieval](https://www.robots.ox.ac.uk/~vgg/publications/2012/Arandjelovic12/arandjelovic12.pdf), CVPR 2012.
 - [On-the-fly learning for visual search of large-scale image and video datasets](https://www.robots.ox.ac.uk/~vgg/publications/2015/Chatfield15/chatfield15.pdf)
-- [All about VLAD](), CVPR 2013.
 - [Aggregating localdescriptors into a compact image representation](https://lear.inrialpes.fr/pubs/2010/JDSP10/jegou_compactimagerepresentation.pdf), CVPR 2010.
 - [More About VLAD: A Leap from Euclidean to Riemannian Manifolds](https://paperswithcode.com/paper/more-about-vlad-a-leap-from-euclidean-to), CVPR 2015.
 - [Hamming embedding and weak geometric consistency for large scale image search](https://lear.inrialpes.fr/pubs/2008/JDS08/jegou_hewgc08.pdf), CVPR 2008.
