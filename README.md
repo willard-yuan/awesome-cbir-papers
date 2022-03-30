@@ -127,6 +127,7 @@ The main goal is to collect classical and solid works of image retrieval in acad
 
 ## ANN search
 
+- [Nearest neighbor search with compact codes: A decoder perspective](https://arxiv.org/pdf/2112.09568.pdf), arxiv 2021.
 - [Accelerating Large-Scale Inference with Anisotropic Vector Quantization](https://arxiv.org/pdf/1908.10396.pdf), [blog](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html), [code](https://github.com/google-research/google-research/tree/master/scann), ICML 2020.
 - [Improving Approximate Nearest Neighbor Search through Learned Adaptive Early Termination](https://www.pdl.cmu.edu/PDL-FTP/BigLearning/mod0246-liA.pdf), SIGMOD 2020.
 - [RobustiQ A Robust ANN Search Method for Billion-scale Similarity Search on GPUs](http://users.monash.edu/~yli/assets/pdf/icmr19-sigconf.pdf), ICMR 2019.
