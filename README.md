@@ -258,3 +258,7 @@ The main goal is to collect classical and solid works of image retrieval in acad
 
 - [VLFeat](http://www.vlfeat.org/)
 - [Yael](http://yael.gforge.inria.fr/)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=willard-yuan/awesome-cbir-papers&type=Date)](https://star-history.com/#willard-yuan/awesome-cbir-papers&Date)
