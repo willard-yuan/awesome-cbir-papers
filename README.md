@@ -89,6 +89,7 @@ The main goal is to collect classical and solid works of image retrieval in acad
 
 ## Deep Learning Feature (Local Feature)
 
+- [Simple Learned Keypoints](https://arxiv.org/abs/2304.06194), a self-supervised deep learning keypoint model, arxiv 2023, [code](https://github.com/facebookresearch/silk).
 - [Learning Super-Features for Image Retrieval](https://openreview.net/pdf?id=wogsFPHwftY), ICLR 2022, [code](https://github.com/naver/FIRe).
 - [LoFTR: Detector-Free Local Feature Matching with Transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_LoFTR_Detector-Free_Local_Feature_Matching_With_Transformers_CVPR_2021_paper.pdf), CVPR 2021, [code](https://github.com/zju3dv/LoFTR).
 - [DFM: A Performance Baseline for Deep Feature Matching](https://arxiv.org/abs/2106.07791), CVPRW 2021, [code](https://github.com/ufukefe/DFM).
