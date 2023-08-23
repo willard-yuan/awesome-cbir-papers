@@ -89,6 +89,7 @@ The main goal is to collect classical and solid works of image retrieval in acad
 
 ## Deep Learning Feature (Local Feature)
 
+- [DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching], arXiv 2023, [code](https://github.com/Parskatt/DeDoDe).
 - [LightGlue: Local Feature Matching at Light Speed](https://arxiv.org/pdf/2306.13643.pdf), arXiv 2023, [code](https://github.com/cvg/LightGlue).
 - [Simple Learned Keypoints](https://arxiv.org/abs/2304.06194), a self-supervised deep learning keypoint model, arxiv 2023, [code](https://github.com/facebookresearch/silk).
 - [Learning Super-Features for Image Retrieval](https://openreview.net/pdf?id=wogsFPHwftY), ICLR 2022, [code](https://github.com/naver/FIRe).
