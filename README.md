@@ -56,6 +56,7 @@ The main goal is to collect classical and solid works of image retrieval in acad
 
 ## Deep Learning Feature (Global Feature)
 
+- - [Recall@k Surrogate Loss with Large Batches and Similarity Mixup](https://openaccess.thecvf.com/content/CVPR2022/papers/Patel_Recallk_Surrogate_Loss_With_Large_Batches_and_Similarity_Mixup_CVPR_2022_paper.pdf), [code](https://github.com/yash0307/RecallatK_surrogate), CVPR 2022.
 - [Online Invariance Selection for Local Feature Descriptors](https://arxiv.org/abs/2007.08988), ECCV 2020, [code](https://github.com/rpautrat/LISRD).
 - [Smooth-AP: Smoothing the Path Towards Large-Scale Image Retrieval](https://arxiv.org/pdf/2007.12163.pdf), ECCV 2020.
 - [SOLAR: Second-Order Loss and Attention for Image Retrieval](https://arxiv.org/pdf/2001.08972.pdf), ECCV 2020.
@@ -123,6 +124,7 @@ The main goal is to collect classical and solid works of image retrieval in acad
   
 ## Deep Learning Feature (Instance Search)
 
+- [Recall@k Surrogate Loss with Large Batches and Similarity Mixup](https://openaccess.thecvf.com/content/CVPR2022/papers/Patel_Recallk_Surrogate_Loss_With_Large_Batches_and_Similarity_Mixup_CVPR_2022_paper.pdf), [code](https://github.com/yash0307/RecallatK_surrogate), CVPR 2022.
 - [Deeply Activated Salient Region for Instance Search](https://arxiv.org/abs/2002.00185), arXiv 2020.
 - [Instance search based on weakly supervised feature learning](https://doi.org/10.1016/j.neucom.2019.11.029), Neurocomputing 2019.
 - [Instance Search via Instance Level Segmentation and Feature Representation](https://arxiv.org/abs/1806.03576), arXiv 2018.
