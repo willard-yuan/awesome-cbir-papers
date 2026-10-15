@@ -170,6 +170,8 @@ The main goal is to collect classical and solid works of image retrieval in acad
 
 ## CBIR rank
 
+- [FreeRet: MLLMs as Training-Free Retrievers](https://arxiv.org/abs/2509.24621), [code](https://github.com/MCG-NJU/FreeRet), ICML 2026. Training-free image retrieval with MLLM embeddings and multiple-choice reranking.
+
 - [Fast Spectral Ranking for Similarity Search](http://arxiv.org/pdf/1703.06935.pdf), [code](https://github.com/ducha-aiki/manifold-diffusion), CVPR 2018.
 
 ## CBIR in Industry
